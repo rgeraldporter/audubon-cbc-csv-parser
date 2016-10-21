@@ -1,0 +1,7001 @@
+﻿CircleName,Abbrev,LatLong
+Hamilton,ONHA,43.2678790000/-79.8852320000
+
+CountYear3,LowTemp,HighTemp,AMCloud,PMClouds,AMRain,PMRain,AMSnow,PMSnow
+115,0.6 Celsius,8.3 Celsius,Cloudy,Cloudy,None,None,None,None
+114,-4.0 Celsius,-1.0 Celsius,Cloudy,Cloudy,,,Light,None
+113,-2.0 Celsius,-2.0 Celsius,Cloudy,Cloudy,None,None,Light,Light
+112,1.0 Celsius,6.0 Celsius,Cloudy,Cloudy,None,None,None,None
+111,19.0 Celsius,23.0 Celsius,Cloudy,Cloudy,None,None,None,None
+110,34.0 Celsius,39.0 Celsius,Cloudy,Cloudy,"Heavy
+Light",None,None,None
+109,30.0 Celsius,34.0 Celsius,Cloudy,Cloudy,None,None,None,None
+
+CountYear5,LowTemp3,HighTemp2,AMCloud2,PMClouds2
+115,12/26/2014,80,179.25,99
+114,12/26/2013,93,182.20,98
+113,12/26/2012,103,194.55,99
+112,12/26/2011,91,227.95,105
+111,12/26/2010,73,226.25,98
+110,12/26/2009,56,194.00,98
+109,12/26/2008,81,227.00,104
+
+CountYear4,LowTemp2
+115,
+114,
+113,
+112,
+111,
+110,
+109,
+
+COM_NAME,CountYear,how_manyCW,NumberByPartyHours,Flags
+"Accipiter sp.
+[Accipiter sp.]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Accipiter sp.
+[Accipiter sp.]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",1,0.0052,
+"Accipiter sp.
+[Accipiter sp.]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Accipiter sp.
+[Accipiter sp.]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",2,0.0088,
+"Accipiter sp.
+[Accipiter sp.]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",1,0.0051,
+"Accipiter sp.
+[Accipiter sp.]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",2,0.0110,
+"Accipiter sp.
+[Accipiter sp.]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",1,0.0056,
+"American Black Duck
+[Anas rubripes]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",452,1.9912,
+"American Black Duck
+[Anas rubripes]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",264,1.3608,
+"American Black Duck
+[Anas rubripes]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",327,1.4453,
+"American Black Duck
+[Anas rubripes]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",153,0.6712,
+"American Black Duck
+[Anas rubripes]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",279,1.4341,
+"American Black Duck
+[Anas rubripes]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",333,1.8277,
+"American Black Duck
+[Anas rubripes]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",202,1.1269,
+"American Black Duck x Mallard (hybrid)
+[Anas rubripes x platyrhynchos]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",45,0.1982,
+"American Black Duck x Mallard (hybrid)
+[Anas rubripes x platyrhynchos]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",4,0.0206,
+"American Black Duck x Mallard (hybrid)
+[Anas rubripes x platyrhynchos]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",4,0.0177,
+"American Black Duck x Mallard (hybrid)
+[Anas rubripes x platyrhynchos]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",4,0.0175,
+"American Black Duck x Mallard (hybrid)
+[Anas rubripes x platyrhynchos]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",3,0.0154,
+"American Black Duck x Mallard (hybrid)
+[Anas rubripes x platyrhynchos]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",4,0.0220,
+"American Black Duck x Mallard (hybrid)
+[Anas rubripes x platyrhynchos]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",2,0.0112,
+"American Coot
+[Fulica americana]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",34,0.1498,
+"American Coot
+[Fulica americana]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",54,0.2784,
+"American Coot
+[Fulica americana]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",46,0.2033,
+"American Coot
+[Fulica americana]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",106,0.4650,
+"American Coot
+[Fulica americana]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",105,0.5397,
+"American Coot
+[Fulica americana]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",53,0.2909,
+"American Coot
+[Fulica americana]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",186,1.0377,"HC,"
+"American Crow
+[Corvus brachyrhynchos]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",657,2.8943,
+"American Crow
+[Corvus brachyrhynchos]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",703,3.6237,
+"American Crow
+[Corvus brachyrhynchos]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",984,4.3492,
+"American Crow
+[Corvus brachyrhynchos]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",734,3.2200,
+"American Crow
+[Corvus brachyrhynchos]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",495,2.5443,
+"American Crow
+[Corvus brachyrhynchos]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",471,2.5851,
+"American Crow
+[Corvus brachyrhynchos]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",768,4.2845,
+"American Goldfinch
+[Spinus tristis]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",1358,5.9824,
+"American Goldfinch
+[Spinus tristis]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",902,4.6495,
+"American Goldfinch
+[Spinus tristis]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",689,3.0453,
+"American Goldfinch
+[Spinus tristis]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",832,3.6499,
+"American Goldfinch
+[Spinus tristis]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",640,3.2896,
+"American Goldfinch
+[Spinus tristis]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",677,3.7157,
+"American Goldfinch
+[Spinus tristis]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",516,2.8787,
+"American Kestrel
+[Falco sparverius]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",25,0.1101,
+"American Kestrel
+[Falco sparverius]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",16,0.0825,
+"American Kestrel
+[Falco sparverius]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",16,0.0707,
+"American Kestrel
+[Falco sparverius]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",8,0.0351,
+"American Kestrel
+[Falco sparverius]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",8,0.0411,
+"American Kestrel
+[Falco sparverius]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",5,0.0274,
+"American Kestrel
+[Falco sparverius]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",5,0.0279,
+"American Pipit
+[Anthus rubescens]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",1,0.0044,
+"American Pipit
+[Anthus rubescens]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"American Pipit
+[Anthus rubescens]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"American Pipit
+[Anthus rubescens]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",1,0.0044,
+"American Pipit
+[Anthus rubescens]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"American Pipit
+[Anthus rubescens]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"American Pipit
+[Anthus rubescens]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"American Robin
+[Turdus migratorius]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",1587,6.9912,
+"American Robin
+[Turdus migratorius]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",323,1.6649,
+"American Robin
+[Turdus migratorius]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",647,2.8597,
+"American Robin
+[Turdus migratorius]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",806,3.5359,
+"American Robin
+[Turdus migratorius]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",130,0.6682,
+"American Robin
+[Turdus migratorius]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",478,2.6235,
+"American Robin
+[Turdus migratorius]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",77,0.4296,
+"American Tree Sparrow
+[Spizelloides arborea]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",1390,6.1233,
+"American Tree Sparrow
+[Spizelloides arborea]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",402,2.0722,
+"American Tree Sparrow
+[Spizelloides arborea]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",940,4.1547,
+"American Tree Sparrow
+[Spizelloides arborea]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",258,1.1318,
+"American Tree Sparrow
+[Spizelloides arborea]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",473,2.4313,
+"American Tree Sparrow
+[Spizelloides arborea]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",487,2.6729,
+"American Tree Sparrow
+[Spizelloides arborea]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",289,1.6123,
+"American Wigeon
+[Anas americana]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"American Wigeon
+[Anas americana]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",cw,0.0000,
+"American Wigeon
+[Anas americana]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"American Wigeon
+[Anas americana]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",10,0.0439,
+"American Wigeon
+[Anas americana]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"American Wigeon
+[Anas americana]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"American Wigeon
+[Anas americana]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",2,0.0112,
+"Bald Eagle
+[Haliaeetus leucocephalus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",9,0.0396,
+"Bald Eagle
+[Haliaeetus leucocephalus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",5,0.0258,
+"Bald Eagle
+[Haliaeetus leucocephalus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",3,0.0133,
+"Bald Eagle
+[Haliaeetus leucocephalus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",4,0.0175,
+"Bald Eagle
+[Haliaeetus leucocephalus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",3,0.0154,
+"Bald Eagle
+[Haliaeetus leucocephalus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",11,0.0604,
+"Bald Eagle
+[Haliaeetus leucocephalus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",6,0.0335,
+"Barn Swallow
+[Hirundo rustica]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Barn Swallow
+[Hirundo rustica]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Barn Swallow
+[Hirundo rustica]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Barn Swallow
+[Hirundo rustica]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Barn Swallow
+[Hirundo rustica]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",2,0.0103,"US,"
+"Barn Swallow
+[Hirundo rustica]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Barn Swallow
+[Hirundo rustica]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Barrow's Goldeneye
+[Bucephala islandica]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Barrow's Goldeneye
+[Bucephala islandica]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",1,0.0052,
+"Barrow's Goldeneye
+[Bucephala islandica]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Barrow's Goldeneye
+[Bucephala islandica]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Barrow's Goldeneye
+[Bucephala islandica]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Barrow's Goldeneye
+[Bucephala islandica]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Barrow's Goldeneye
+[Bucephala islandica]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Belted Kingfisher
+[Megaceryle alcyon]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",6,0.0264,
+"Belted Kingfisher
+[Megaceryle alcyon]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",1,0.0052,
+"Belted Kingfisher
+[Megaceryle alcyon]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",6,0.0265,
+"Belted Kingfisher
+[Megaceryle alcyon]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",7,0.0307,
+"Belted Kingfisher
+[Megaceryle alcyon]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",8,0.0411,
+"Belted Kingfisher
+[Megaceryle alcyon]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",4,0.0220,
+"Belted Kingfisher
+[Megaceryle alcyon]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",8,0.0446,
+"Black Scoter
+[Melanitta americana]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",8,0.0352,
+"Black Scoter
+[Melanitta americana]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",5,0.0258,
+"Black Scoter
+[Melanitta americana]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",1,0.0044,
+"Black Scoter
+[Melanitta americana]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",2,0.0088,
+"Black Scoter
+[Melanitta americana]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",6,0.0308,
+"Black Scoter
+[Melanitta americana]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",4,0.0220,
+"Black Scoter
+[Melanitta americana]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",87,0.4854,"HC,"
+"Black-capped Chickadee
+[Poecile atricapillus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",1862,8.2026,
+"Black-capped Chickadee
+[Poecile atricapillus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",1918,9.8866,
+"Black-capped Chickadee
+[Poecile atricapillus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",1541,6.8110,
+"Black-capped Chickadee
+[Poecile atricapillus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",1444,6.3347,
+"Black-capped Chickadee
+[Poecile atricapillus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",1315,6.7592,
+"Black-capped Chickadee
+[Poecile atricapillus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",961,5.2744,
+"Black-capped Chickadee
+[Poecile atricapillus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",1182,6.5941,
+"Black-crowned Night-Heron
+[Nycticorax nycticorax]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",6,0.0264,
+"Black-crowned Night-Heron
+[Nycticorax nycticorax]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",3,0.0155,
+"Black-crowned Night-Heron
+[Nycticorax nycticorax]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",4,0.0177,
+"Black-crowned Night-Heron
+[Nycticorax nycticorax]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",2,0.0088,
+"Black-crowned Night-Heron
+[Nycticorax nycticorax]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",10,0.0514,
+"Black-crowned Night-Heron
+[Nycticorax nycticorax]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",11,0.0604,
+"Black-crowned Night-Heron
+[Nycticorax nycticorax]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",1,0.0056,
+"Black-legged Kittiwake
+[Rissa tridactyla]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Black-legged Kittiwake
+[Rissa tridactyla]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Black-legged Kittiwake
+[Rissa tridactyla]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Black-legged Kittiwake
+[Rissa tridactyla]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Black-legged Kittiwake
+[Rissa tridactyla]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",2,0.0103,
+"Black-legged Kittiwake
+[Rissa tridactyla]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Black-legged Kittiwake
+[Rissa tridactyla]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Black-throated Gray Warbler
+[Setophaga nigrescens]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Black-throated Gray Warbler
+[Setophaga nigrescens]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Black-throated Gray Warbler
+[Setophaga nigrescens]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Black-throated Gray Warbler
+[Setophaga nigrescens]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",cw,0.0000,"US,"
+"Black-throated Gray Warbler
+[Setophaga nigrescens]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Black-throated Gray Warbler
+[Setophaga nigrescens]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Black-throated Gray Warbler
+[Setophaga nigrescens]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Blue Jay
+[Cyanocitta cristata]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",527,2.3216,
+"Blue Jay
+[Cyanocitta cristata]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",354,1.8247,
+"Blue Jay
+[Cyanocitta cristata]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",427,1.8873,
+"Blue Jay
+[Cyanocitta cristata]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",257,1.1274,
+"Blue Jay
+[Cyanocitta cristata]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",155,0.7967,
+"Blue Jay
+[Cyanocitta cristata]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",449,2.4643,
+"Blue Jay
+[Cyanocitta cristata]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",290,1.6179,
+"Blue-gray Gnatcatcher
+[Polioptila caerulea]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Blue-gray Gnatcatcher
+[Polioptila caerulea]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Blue-gray Gnatcatcher
+[Polioptila caerulea]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Blue-gray Gnatcatcher
+[Polioptila caerulea]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",1,0.0044,"US,"
+"Blue-gray Gnatcatcher
+[Polioptila caerulea]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Blue-gray Gnatcatcher
+[Polioptila caerulea]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Blue-gray Gnatcatcher
+[Polioptila caerulea]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Bohemian Waxwing
+[Bombycilla garrulus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Bohemian Waxwing
+[Bombycilla garrulus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",cw,0.0000,
+"Bohemian Waxwing
+[Bombycilla garrulus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",42,0.1856,
+"Bohemian Waxwing
+[Bombycilla garrulus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Bohemian Waxwing
+[Bombycilla garrulus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",cw,0.0000,
+"Bohemian Waxwing
+[Bombycilla garrulus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Bohemian Waxwing
+[Bombycilla garrulus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Bonaparte's Gull
+[Chroicocephalus philadelphia]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Bonaparte's Gull
+[Chroicocephalus philadelphia]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",3,0.0155,
+"Bonaparte's Gull
+[Chroicocephalus philadelphia]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Bonaparte's Gull
+[Chroicocephalus philadelphia]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Bonaparte's Gull
+[Chroicocephalus philadelphia]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",4,0.0206,
+"Bonaparte's Gull
+[Chroicocephalus philadelphia]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",4,0.0220,
+"Bonaparte's Gull
+[Chroicocephalus philadelphia]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Brant
+[Branta bernicla]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Brant
+[Branta bernicla]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",2,0.0103,
+"Brant
+[Branta bernicla]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Brant
+[Branta bernicla]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",1,0.0044,
+"Brant
+[Branta bernicla]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Brant
+[Branta bernicla]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Brant
+[Branta bernicla]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Brown Creeper
+[Certhia americana]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",26,0.1145,
+"Brown Creeper
+[Certhia americana]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",53,0.2732,
+"Brown Creeper
+[Certhia americana]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",24,0.1061,
+"Brown Creeper
+[Certhia americana]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",14,0.0614,
+"Brown Creeper
+[Certhia americana]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",10,0.0514,
+"Brown Creeper
+[Certhia americana]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",15,0.0823,
+"Brown Creeper
+[Certhia americana]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",18,0.1004,
+"Brown-headed Cowbird
+[Molothrus ater]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",44,0.1938,
+"Brown-headed Cowbird
+[Molothrus ater]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Brown-headed Cowbird
+[Molothrus ater]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",3,0.0133,
+"Brown-headed Cowbird
+[Molothrus ater]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",cw,0.0000,
+"Brown-headed Cowbird
+[Molothrus ater]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",7,0.0360,
+"Brown-headed Cowbird
+[Molothrus ater]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",27,0.1482,
+"Brown-headed Cowbird
+[Molothrus ater]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",8,0.0446,
+"Bufflehead
+[Bucephala albeola]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",449,1.9780,
+"Bufflehead
+[Bucephala albeola]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",373,1.9227,
+"Bufflehead
+[Bucephala albeola]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",251,1.1094,
+"Bufflehead
+[Bucephala albeola]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",479,2.1013,
+"Bufflehead
+[Bucephala albeola]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",377,1.9378,
+"Bufflehead
+[Bucephala albeola]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",321,1.7618,
+"Bufflehead
+[Bucephala albeola]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",360,2.0084,
+"Cackling Goose
+[Branta hutchinsii]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Cackling Goose
+[Branta hutchinsii]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Cackling Goose
+[Branta hutchinsii]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Cackling Goose
+[Branta hutchinsii]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Cackling Goose
+[Branta hutchinsii]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",4,0.0206,
+"Cackling Goose
+[Branta hutchinsii]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Cackling Goose
+[Branta hutchinsii]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Canada Goose
+[Branta canadensis]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",8008,35.2775,
+"Canada Goose
+[Branta canadensis]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",9092,46.8660,
+"Canada Goose
+[Branta canadensis]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",7586,33.5293,
+"Canada Goose
+[Branta canadensis]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",4876,21.3907,
+"Canada Goose
+[Branta canadensis]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",6079,31.2465,
+"Canada Goose
+[Branta canadensis]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",5646,30.9879,
+"Canada Goose
+[Branta canadensis]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",4747,26.4826,
+"Canvasback
+[Aythya valisineria]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",87,0.3833,
+"Canvasback
+[Aythya valisineria]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",154,0.7938,
+"Canvasback
+[Aythya valisineria]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",98,0.4331,
+"Canvasback
+[Aythya valisineria]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",1073,4.7072,
+"Canvasback
+[Aythya valisineria]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",190,0.9766,
+"Canvasback
+[Aythya valisineria]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",19,0.1043,
+"Canvasback
+[Aythya valisineria]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",84,0.4686,
+"Carolina Wren
+[Thryothorus ludovicianus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",40,0.1762,
+"Carolina Wren
+[Thryothorus ludovicianus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",52,0.2680,
+"Carolina Wren
+[Thryothorus ludovicianus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",33,0.1459,
+"Carolina Wren
+[Thryothorus ludovicianus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",44,0.1930,
+"Carolina Wren
+[Thryothorus ludovicianus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",49,0.2519,
+"Carolina Wren
+[Thryothorus ludovicianus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",38,0.2086,
+"Carolina Wren
+[Thryothorus ludovicianus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",52,0.2901,
+"Cedar Waxwing
+[Bombycilla cedrorum]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",322,1.4185,
+"Cedar Waxwing
+[Bombycilla cedrorum]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",443,2.2835,
+"Cedar Waxwing
+[Bombycilla cedrorum]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",1136,5.0210,
+"Cedar Waxwing
+[Bombycilla cedrorum]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",576,2.5269,
+"Cedar Waxwing
+[Bombycilla cedrorum]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",104,0.5346,
+"Cedar Waxwing
+[Bombycilla cedrorum]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",180,0.9879,
+"Cedar Waxwing
+[Bombycilla cedrorum]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",75,0.4184,
+"Chipping Sparrow
+[Spizella passerina]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Chipping Sparrow
+[Spizella passerina]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",2,0.0103,
+"Chipping Sparrow
+[Spizella passerina]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Chipping Sparrow
+[Spizella passerina]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Chipping Sparrow
+[Spizella passerina]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",cw,0.0000,
+"Chipping Sparrow
+[Spizella passerina]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",2,0.0110,
+"Chipping Sparrow
+[Spizella passerina]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Common Goldeneye
+[Bucephala clangula]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",2024,8.9163,
+"Common Goldeneye
+[Bucephala clangula]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",5792,29.8557,
+"Common Goldeneye
+[Bucephala clangula]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",1797,7.9425,
+"Common Goldeneye
+[Bucephala clangula]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",1630,7.1507,
+"Common Goldeneye
+[Bucephala clangula]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",1141,5.8648,
+"Common Goldeneye
+[Bucephala clangula]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",621,3.4083,
+"Common Goldeneye
+[Bucephala clangula]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",1364,7.6095,
+"Common Grackle
+[Quiscalus quiscula]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",2,0.0088,
+"Common Grackle
+[Quiscalus quiscula]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Common Grackle
+[Quiscalus quiscula]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Common Grackle
+[Quiscalus quiscula]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",cw,0.0000,
+"Common Grackle
+[Quiscalus quiscula]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Common Grackle
+[Quiscalus quiscula]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",1,0.0055,
+"Common Grackle
+[Quiscalus quiscula]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Common Loon
+[Gavia immer]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",2,0.0088,
+"Common Loon
+[Gavia immer]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",2,0.0103,
+"Common Loon
+[Gavia immer]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Common Loon
+[Gavia immer]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",9,0.0395,
+"Common Loon
+[Gavia immer]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",3,0.0154,
+"Common Loon
+[Gavia immer]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Common Loon
+[Gavia immer]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",5,0.0279,
+"Common Merganser
+[Mergus merganser]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",3202,14.1057,
+"Common Merganser
+[Mergus merganser]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",527,2.7165,
+"Common Merganser
+[Mergus merganser]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",1200,5.3039,
+"Common Merganser
+[Mergus merganser]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",178,0.7809,
+"Common Merganser
+[Mergus merganser]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",827,4.2508,
+"Common Merganser
+[Mergus merganser]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",501,2.7497,
+"Common Merganser
+[Mergus merganser]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",1079,6.0195,
+"Common Raven
+[Corvus corax]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Common Raven
+[Corvus corax]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",2,0.0103,
+"Common Raven
+[Corvus corax]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",2,0.0088,
+"Common Raven
+[Corvus corax]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",2,0.0088,
+"Common Raven
+[Corvus corax]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",4,0.0206,
+"Common Raven
+[Corvus corax]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Common Raven
+[Corvus corax]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",2,0.0112,
+"Common Redpoll
+[Acanthis flammea]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",8,0.0352,
+"Common Redpoll
+[Acanthis flammea]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Common Redpoll
+[Acanthis flammea]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",10,0.0442,
+"Common Redpoll
+[Acanthis flammea]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",2,0.0088,
+"Common Redpoll
+[Acanthis flammea]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",348,1.7887,
+"Common Redpoll
+[Acanthis flammea]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Common Redpoll
+[Acanthis flammea]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Common Yellowthroat
+[Geothlypis trichas]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Common Yellowthroat
+[Geothlypis trichas]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Common Yellowthroat
+[Geothlypis trichas]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",1,0.0044,
+"Common Yellowthroat
+[Geothlypis trichas]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Common Yellowthroat
+[Geothlypis trichas]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Common Yellowthroat
+[Geothlypis trichas]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Common Yellowthroat
+[Geothlypis trichas]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Cooper's Hawk
+[Accipiter cooperii]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",20,0.0881,
+"Cooper's Hawk
+[Accipiter cooperii]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",17,0.0876,
+"Cooper's Hawk
+[Accipiter cooperii]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",23,0.1017,
+"Cooper's Hawk
+[Accipiter cooperii]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",15,0.0658,
+"Cooper's Hawk
+[Accipiter cooperii]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",9,0.0463,
+"Cooper's Hawk
+[Accipiter cooperii]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",16,0.0878,
+"Cooper's Hawk
+[Accipiter cooperii]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",12,0.0669,
+"Dark-eyed Junco
+[Junco hyemalis]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",1954,8.6079,
+"Dark-eyed Junco
+[Junco hyemalis]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",615,3.1701,
+"Dark-eyed Junco
+[Junco hyemalis]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",1285,5.6796,
+"Dark-eyed Junco
+[Junco hyemalis]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",915,4.0140,
+"Dark-eyed Junco
+[Junco hyemalis]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Dark-eyed Junco
+[Junco hyemalis]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Dark-eyed Junco
+[Junco hyemalis]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Dark-eyed Junco (Oregon)
+[Junco hyemalis [oreganus Group]]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",1,0.0044,
+"Dark-eyed Junco (Oregon)
+[Junco hyemalis [oreganus Group]]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Dark-eyed Junco (Oregon)
+[Junco hyemalis [oreganus Group]]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Dark-eyed Junco (Oregon)
+[Junco hyemalis [oreganus Group]]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",1,0.0044,
+"Dark-eyed Junco (Oregon)
+[Junco hyemalis [oreganus Group]]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Dark-eyed Junco (Oregon)
+[Junco hyemalis [oreganus Group]]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Dark-eyed Junco (Oregon)
+[Junco hyemalis [oreganus Group]]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Dark-eyed Junco (Slate-colored)
+[Junco hyemalis hyemalis/carolinensis]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Dark-eyed Junco (Slate-colored)
+[Junco hyemalis hyemalis/carolinensis]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Dark-eyed Junco (Slate-colored)
+[Junco hyemalis hyemalis/carolinensis]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Dark-eyed Junco (Slate-colored)
+[Junco hyemalis hyemalis/carolinensis]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Dark-eyed Junco (Slate-colored)
+[Junco hyemalis hyemalis/carolinensis]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",1175,6.0396,
+"Dark-eyed Junco (Slate-colored)
+[Junco hyemalis hyemalis/carolinensis]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",852,4.6762,
+"Dark-eyed Junco (Slate-colored)
+[Junco hyemalis hyemalis/carolinensis]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",742,4.1395,
+"Double-crested Cormorant
+[Phalacrocorax auritus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",46,0.2026,
+"Double-crested Cormorant
+[Phalacrocorax auritus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",44,0.2268,
+"Double-crested Cormorant
+[Phalacrocorax auritus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",17,0.0751,
+"Double-crested Cormorant
+[Phalacrocorax auritus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",17,0.0746,
+"Double-crested Cormorant
+[Phalacrocorax auritus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",31,0.1593,
+"Double-crested Cormorant
+[Phalacrocorax auritus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",49,0.2689,
+"Double-crested Cormorant
+[Phalacrocorax auritus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",34,0.1897,
+"Downy Woodpecker
+[Picoides pubescens]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",308,1.3568,
+"Downy Woodpecker
+[Picoides pubescens]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",228,1.1753,
+"Downy Woodpecker
+[Picoides pubescens]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",217,0.9591,
+"Downy Woodpecker
+[Picoides pubescens]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",184,0.8072,
+"Downy Woodpecker
+[Picoides pubescens]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",181,0.9304,
+"Downy Woodpecker
+[Picoides pubescens]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",230,1.2623,
+"Downy Woodpecker
+[Picoides pubescens]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",222,1.2385,
+"duck sp.
+[Anatinae sp.]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",15,0.0661,
+"duck sp.
+[Anatinae sp.]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",643,3.3144,
+"duck sp.
+[Anatinae sp.]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",600,2.6519,
+"duck sp.
+[Anatinae sp.]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",8000,35.0954,
+"duck sp.
+[Anatinae sp.]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",1023,5.2583,
+"duck sp.
+[Anatinae sp.]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",5001,27.4479,
+"duck sp.
+[Anatinae sp.]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",500,2.7894,
+"Eastern Bluebird
+[Sialia sialis]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",21,0.0925,
+"Eastern Bluebird
+[Sialia sialis]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",9,0.0464,
+"Eastern Bluebird
+[Sialia sialis]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",13,0.0575,
+"Eastern Bluebird
+[Sialia sialis]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",52,0.2281,
+"Eastern Bluebird
+[Sialia sialis]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",32,0.1645,
+"Eastern Bluebird
+[Sialia sialis]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",42,0.2305,
+"Eastern Bluebird
+[Sialia sialis]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",10,0.0558,
+"Eastern Phoebe
+[Sayornis phoebe]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Eastern Phoebe
+[Sayornis phoebe]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Eastern Phoebe
+[Sayornis phoebe]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Eastern Phoebe
+[Sayornis phoebe]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Eastern Phoebe
+[Sayornis phoebe]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",cw,0.0000,
+"Eastern Phoebe
+[Sayornis phoebe]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Eastern Phoebe
+[Sayornis phoebe]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",1,0.0056,"US,"
+"Eastern Screech-Owl
+[Megascops asio]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",15,0.0661,
+"Eastern Screech-Owl
+[Megascops asio]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",4,0.0206,
+"Eastern Screech-Owl
+[Megascops asio]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",14,0.0619,
+"Eastern Screech-Owl
+[Megascops asio]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",11,0.0483,
+"Eastern Screech-Owl
+[Megascops asio]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",9,0.0463,
+"Eastern Screech-Owl
+[Megascops asio]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",18,0.0988,
+"Eastern Screech-Owl
+[Megascops asio]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",14,0.0781,
+"Eastern Towhee
+[Pipilo erythrophthalmus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Eastern Towhee
+[Pipilo erythrophthalmus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Eastern Towhee
+[Pipilo erythrophthalmus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",1,0.0044,
+"Eastern Towhee
+[Pipilo erythrophthalmus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Eastern Towhee
+[Pipilo erythrophthalmus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Eastern Towhee
+[Pipilo erythrophthalmus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Eastern Towhee
+[Pipilo erythrophthalmus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",1,0.0056,"US,"
+"European Starling
+[Sturnus vulgaris]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",8099,35.6784,
+"European Starling
+[Sturnus vulgaris]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",10994,56.6701,
+"European Starling
+[Sturnus vulgaris]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",9671,42.7448,
+"European Starling
+[Sturnus vulgaris]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",16338,71.6736,
+"European Starling
+[Sturnus vulgaris]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",2240,11.5137,
+"European Starling
+[Sturnus vulgaris]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",13414,73.6224,
+"European Starling
+[Sturnus vulgaris]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",8342,46.5384,
+"Evening Grosbeak
+[Coccothraustes vespertinus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Evening Grosbeak
+[Coccothraustes vespertinus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Evening Grosbeak
+[Coccothraustes vespertinus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Evening Grosbeak
+[Coccothraustes vespertinus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Evening Grosbeak
+[Coccothraustes vespertinus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",cw,0.0000,
+"Evening Grosbeak
+[Coccothraustes vespertinus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Evening Grosbeak
+[Coccothraustes vespertinus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",6,0.0335,
+"Field Sparrow
+[Spizella pusilla]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Field Sparrow
+[Spizella pusilla]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Field Sparrow
+[Spizella pusilla]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Field Sparrow
+[Spizella pusilla]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",2,0.0088,
+"Field Sparrow
+[Spizella pusilla]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Field Sparrow
+[Spizella pusilla]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Field Sparrow
+[Spizella pusilla]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"finch sp.
+[Fringillidae sp.]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"finch sp.
+[Fringillidae sp.]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"finch sp.
+[Fringillidae sp.]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"finch sp.
+[Fringillidae sp.]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"finch sp.
+[Fringillidae sp.]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",3,0.0154,
+"finch sp.
+[Fringillidae sp.]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",3,0.0165,
+"finch sp.
+[Fringillidae sp.]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Fox Sparrow
+[Passerella iliaca]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Fox Sparrow
+[Passerella iliaca]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",1,0.0052,
+"Fox Sparrow
+[Passerella iliaca]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Fox Sparrow
+[Passerella iliaca]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",2,0.0088,
+"Fox Sparrow
+[Passerella iliaca]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Fox Sparrow
+[Passerella iliaca]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Fox Sparrow
+[Passerella iliaca]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",1,0.0056,
+"Franklin's Gull
+[Leucophaeus pipixcan]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Franklin's Gull
+[Leucophaeus pipixcan]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Franklin's Gull
+[Leucophaeus pipixcan]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Franklin's Gull
+[Leucophaeus pipixcan]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",1,0.0044,"US,"
+"Franklin's Gull
+[Leucophaeus pipixcan]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Franklin's Gull
+[Leucophaeus pipixcan]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Franklin's Gull
+[Leucophaeus pipixcan]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Gadwall
+[Anas strepera]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",74,0.3260,
+"Gadwall
+[Anas strepera]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",29,0.1495,
+"Gadwall
+[Anas strepera]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",30,0.1326,
+"Gadwall
+[Anas strepera]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",25,0.1097,
+"Gadwall
+[Anas strepera]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",64,0.3290,
+"Gadwall
+[Anas strepera]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",4,0.0220,
+"Gadwall
+[Anas strepera]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",28,0.1562,
+"Glaucous Gull
+[Larus hyperboreus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",50,0.2203,
+"Glaucous Gull
+[Larus hyperboreus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",14,0.0722,
+"Glaucous Gull
+[Larus hyperboreus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",1,0.0044,
+"Glaucous Gull
+[Larus hyperboreus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",7,0.0307,
+"Glaucous Gull
+[Larus hyperboreus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",2,0.0103,
+"Glaucous Gull
+[Larus hyperboreus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",8,0.0439,
+"Glaucous Gull
+[Larus hyperboreus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",14,0.0781,
+"Golden-crowned Kinglet
+[Regulus satrapa]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",54,0.2379,
+"Golden-crowned Kinglet
+[Regulus satrapa]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",67,0.3454,
+"Golden-crowned Kinglet
+[Regulus satrapa]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",69,0.3050,
+"Golden-crowned Kinglet
+[Regulus satrapa]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",20,0.0877,
+"Golden-crowned Kinglet
+[Regulus satrapa]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",11,0.0565,
+"Golden-crowned Kinglet
+[Regulus satrapa]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",48,0.2634,
+"Golden-crowned Kinglet
+[Regulus satrapa]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",55,0.3068,
+"Gray Catbird
+[Dumetella carolinensis]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",cw,0.0000,
+"Gray Catbird
+[Dumetella carolinensis]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",cw,0.0000,
+"Gray Catbird
+[Dumetella carolinensis]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Gray Catbird
+[Dumetella carolinensis]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Gray Catbird
+[Dumetella carolinensis]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Gray Catbird
+[Dumetella carolinensis]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Gray Catbird
+[Dumetella carolinensis]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Great Black-backed Gull
+[Larus marinus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",138,0.6079,
+"Great Black-backed Gull
+[Larus marinus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",181,0.9330,
+"Great Black-backed Gull
+[Larus marinus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",8,0.0354,
+"Great Black-backed Gull
+[Larus marinus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",36,0.1579,
+"Great Black-backed Gull
+[Larus marinus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",110,0.5654,
+"Great Black-backed Gull
+[Larus marinus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",354,1.9429,
+"Great Black-backed Gull
+[Larus marinus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",343,1.9135,
+"Great Blue Heron (Blue form)
+[Ardea herodias [herodias Group]]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",12,0.0529,
+"Great Blue Heron (Blue form)
+[Ardea herodias [herodias Group]]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",6,0.0309,
+"Great Blue Heron (Blue form)
+[Ardea herodias [herodias Group]]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",6,0.0265,
+"Great Blue Heron (Blue form)
+[Ardea herodias [herodias Group]]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",8,0.0351,
+"Great Blue Heron (Blue form)
+[Ardea herodias [herodias Group]]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",15,0.0771,
+"Great Blue Heron (Blue form)
+[Ardea herodias [herodias Group]]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",15,0.0823,
+"Great Blue Heron (Blue form)
+[Ardea herodias [herodias Group]]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",9,0.0502,
+"Great Horned Owl
+[Bubo virginianus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",16,0.0705,
+"Great Horned Owl
+[Bubo virginianus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",6,0.0309,
+"Great Horned Owl
+[Bubo virginianus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",5,0.0221,
+"Great Horned Owl
+[Bubo virginianus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",5,0.0219,
+"Great Horned Owl
+[Bubo virginianus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",6,0.0308,
+"Great Horned Owl
+[Bubo virginianus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",6,0.0329,
+"Great Horned Owl
+[Bubo virginianus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",6,0.0335,
+"Greater Scaup
+[Aythya marila]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",4183,18.4273,
+"Greater Scaup
+[Aythya marila]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",14584,75.1753,
+"Greater Scaup
+[Aythya marila]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",4874,21.5425,
+"Greater Scaup
+[Aythya marila]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",3591,15.7535,
+"Greater Scaup
+[Aythya marila]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",2057,10.5731,
+"Greater Scaup
+[Aythya marila]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",1156,6.3447,
+"Greater Scaup
+[Aythya marila]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",3429,19.1297,
+"Green-winged Teal
+[Anas crecca]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Green-winged Teal
+[Anas crecca]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",28,0.1443,
+"Green-winged Teal
+[Anas crecca]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Green-winged Teal
+[Anas crecca]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Green-winged Teal
+[Anas crecca]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Green-winged Teal
+[Anas crecca]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Green-winged Teal
+[Anas crecca]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Green-winged Teal (American)
+[Anas crecca carolinensis]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",28,0.1233,
+"Green-winged Teal (American)
+[Anas crecca carolinensis]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Green-winged Teal (American)
+[Anas crecca carolinensis]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",4,0.0177,
+"Green-winged Teal (American)
+[Anas crecca carolinensis]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",23,0.1009,
+"Green-winged Teal (American)
+[Anas crecca carolinensis]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",38,0.1953,
+"Green-winged Teal (American)
+[Anas crecca carolinensis]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",12,0.0659,
+"Green-winged Teal (American)
+[Anas crecca carolinensis]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",27,0.1506,
+"gull sp.
+[Larinae sp.]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",71,0.3128,
+"gull sp.
+[Larinae sp.]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"gull sp.
+[Larinae sp.]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"gull sp.
+[Larinae sp.]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",8,0.0351,
+"gull sp.
+[Larinae sp.]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"gull sp.
+[Larinae sp.]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",18,0.0988,
+"gull sp.
+[Larinae sp.]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",23,0.1283,
+"Hairy Woodpecker
+[Picoides villosus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",90,0.3965,
+"Hairy Woodpecker
+[Picoides villosus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",73,0.3763,
+"Hairy Woodpecker
+[Picoides villosus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",60,0.2652,
+"Hairy Woodpecker
+[Picoides villosus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",60,0.2632,
+"Hairy Woodpecker
+[Picoides villosus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",68,0.3495,
+"Hairy Woodpecker
+[Picoides villosus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",61,0.3348,
+"Hairy Woodpecker
+[Picoides villosus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",96,0.5356,
+"Harlequin Duck
+[Histrionicus histrionicus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",1,0.0044,
+"Harlequin Duck
+[Histrionicus histrionicus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Harlequin Duck
+[Histrionicus histrionicus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Harlequin Duck
+[Histrionicus histrionicus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Harlequin Duck
+[Histrionicus histrionicus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Harlequin Duck
+[Histrionicus histrionicus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Harlequin Duck
+[Histrionicus histrionicus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",cw,0.0000,
+"Hermit Thrush
+[Catharus guttatus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",6,0.0264,
+"Hermit Thrush
+[Catharus guttatus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",3,0.0155,
+"Hermit Thrush
+[Catharus guttatus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",3,0.0133,
+"Hermit Thrush
+[Catharus guttatus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",1,0.0044,
+"Hermit Thrush
+[Catharus guttatus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Hermit Thrush
+[Catharus guttatus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",2,0.0110,
+"Hermit Thrush
+[Catharus guttatus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",2,0.0112,
+"Herring Gull
+[Larus argentatus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",3665,16.1454,
+"Herring Gull
+[Larus argentatus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",2545,13.1186,
+"Herring Gull
+[Larus argentatus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",316,1.3967,
+"Herring Gull
+[Larus argentatus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",1671,7.3306,
+"Herring Gull
+[Larus argentatus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",918,4.7186,
+"Herring Gull
+[Larus argentatus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",2323,12.7497,
+"Herring Gull
+[Larus argentatus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",2274,12.6862,
+"Hoary Redpoll
+[Acanthis hornemanni]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Hoary Redpoll
+[Acanthis hornemanni]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Hoary Redpoll
+[Acanthis hornemanni]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Hoary Redpoll
+[Acanthis hornemanni]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Hoary Redpoll
+[Acanthis hornemanni]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",2,0.0103,
+"Hoary Redpoll
+[Acanthis hornemanni]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Hoary Redpoll
+[Acanthis hornemanni]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Hooded Merganser
+[Lophodytes cucullatus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",53,0.2335,
+"Hooded Merganser
+[Lophodytes cucullatus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",55,0.2835,
+"Hooded Merganser
+[Lophodytes cucullatus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",70,0.3094,
+"Hooded Merganser
+[Lophodytes cucullatus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",53,0.2325,
+"Hooded Merganser
+[Lophodytes cucullatus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",157,0.8070,
+"Hooded Merganser
+[Lophodytes cucullatus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",83,0.4555,
+"Hooded Merganser
+[Lophodytes cucullatus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",139,0.7755,
+"Horned Grebe
+[Podiceps auritus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",1,0.0044,
+"Horned Grebe
+[Podiceps auritus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Horned Grebe
+[Podiceps auritus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Horned Grebe
+[Podiceps auritus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",1,0.0044,
+"Horned Grebe
+[Podiceps auritus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Horned Grebe
+[Podiceps auritus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",cw,0.0000,
+"Horned Grebe
+[Podiceps auritus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",1,0.0056,
+"Horned Lark
+[Eremophila alpestris]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",84,0.3700,
+"Horned Lark
+[Eremophila alpestris]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Horned Lark
+[Eremophila alpestris]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",72,0.3182,
+"Horned Lark
+[Eremophila alpestris]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",18,0.0790,
+"Horned Lark
+[Eremophila alpestris]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",cw,0.0000,
+"Horned Lark
+[Eremophila alpestris]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",4,0.0220,
+"Horned Lark
+[Eremophila alpestris]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",2,0.0112,
+"House Finch
+[Haemorhous mexicanus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",601,2.6476,
+"House Finch
+[Haemorhous mexicanus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",330,1.7010,
+"House Finch
+[Haemorhous mexicanus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",632,2.7934,
+"House Finch
+[Haemorhous mexicanus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",530,2.3251,
+"House Finch
+[Haemorhous mexicanus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",608,3.1252,
+"House Finch
+[Haemorhous mexicanus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",406,2.2283,
+"House Finch
+[Haemorhous mexicanus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",429,2.3933,
+"House Sparrow
+[Passer domesticus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",2753,12.1278,
+"House Sparrow
+[Passer domesticus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",2030,10.4639,
+"House Sparrow
+[Passer domesticus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",1871,8.2696,
+"House Sparrow
+[Passer domesticus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",1663,7.2955,
+"House Sparrow
+[Passer domesticus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",1473,7.5713,
+"House Sparrow
+[Passer domesticus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",1802,9.8902,
+"House Sparrow
+[Passer domesticus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",1318,7.3529,
+"Iceland Gull
+[Larus glaucoides]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",51,0.2247,
+"Iceland Gull
+[Larus glaucoides]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",1,0.0052,
+"Iceland Gull
+[Larus glaucoides]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Iceland Gull
+[Larus glaucoides]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",3,0.0132,
+"Iceland Gull
+[Larus glaucoides]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",2,0.0103,
+"Iceland Gull
+[Larus glaucoides]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",4,0.0220,
+"Iceland Gull
+[Larus glaucoides]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",2,0.0112,
+"jaeger sp.
+[Stercorarius sp. (jaeger sp.)]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"jaeger sp.
+[Stercorarius sp. (jaeger sp.)]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"jaeger sp.
+[Stercorarius sp. (jaeger sp.)]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"jaeger sp.
+[Stercorarius sp. (jaeger sp.)]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"jaeger sp.
+[Stercorarius sp. (jaeger sp.)]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",1,0.0051,
+"jaeger sp.
+[Stercorarius sp. (jaeger sp.)]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"jaeger sp.
+[Stercorarius sp. (jaeger sp.)]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Killdeer
+[Charadrius vociferus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Killdeer
+[Charadrius vociferus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Killdeer
+[Charadrius vociferus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Killdeer
+[Charadrius vociferus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",cw,0.0000,
+"Killdeer
+[Charadrius vociferus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Killdeer
+[Charadrius vociferus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Killdeer
+[Charadrius vociferus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"King Eider
+[Somateria spectabilis]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"King Eider
+[Somateria spectabilis]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",1,0.0052,
+"King Eider
+[Somateria spectabilis]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"King Eider
+[Somateria spectabilis]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"King Eider
+[Somateria spectabilis]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"King Eider
+[Somateria spectabilis]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",cw,0.0000,
+"King Eider
+[Somateria spectabilis]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Lapland Longspur
+[Calcarius lapponicus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Lapland Longspur
+[Calcarius lapponicus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Lapland Longspur
+[Calcarius lapponicus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",1,0.0044,
+"Lapland Longspur
+[Calcarius lapponicus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Lapland Longspur
+[Calcarius lapponicus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Lapland Longspur
+[Calcarius lapponicus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Lapland Longspur
+[Calcarius lapponicus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Lesser Black-backed Gull
+[Larus fuscus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",3,0.0132,
+"Lesser Black-backed Gull
+[Larus fuscus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",cw,0.0000,
+"Lesser Black-backed Gull
+[Larus fuscus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Lesser Black-backed Gull
+[Larus fuscus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",4,0.0175,
+"Lesser Black-backed Gull
+[Larus fuscus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",1,0.0051,
+"Lesser Black-backed Gull
+[Larus fuscus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",4,0.0220,
+"Lesser Black-backed Gull
+[Larus fuscus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",1,0.0056,
+"Lesser Scaup
+[Aythya affinis]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",1162,5.1189,
+"Lesser Scaup
+[Aythya affinis]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",742,3.8247,
+"Lesser Scaup
+[Aythya affinis]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",858,3.7923,
+"Lesser Scaup
+[Aythya affinis]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",300,1.3161,
+"Lesser Scaup
+[Aythya affinis]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",1208,6.2092,
+"Lesser Scaup
+[Aythya affinis]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",216,1.1855,
+"Lesser Scaup
+[Aythya affinis]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",182,1.0153,
+"Little Gull
+[Hydrocoloeus minutus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Little Gull
+[Hydrocoloeus minutus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Little Gull
+[Hydrocoloeus minutus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Little Gull
+[Hydrocoloeus minutus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",1,0.0044,
+"Little Gull
+[Hydrocoloeus minutus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Little Gull
+[Hydrocoloeus minutus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Little Gull
+[Hydrocoloeus minutus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Long-eared Owl
+[Asio otus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",2,0.0088,
+"Long-eared Owl
+[Asio otus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",1,0.0052,
+"Long-eared Owl
+[Asio otus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",1,0.0044,
+"Long-eared Owl
+[Asio otus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",cw,0.0000,
+"Long-eared Owl
+[Asio otus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Long-eared Owl
+[Asio otus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Long-eared Owl
+[Asio otus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",1,0.0056,
+"Long-tailed Duck
+[Clangula hyemalis]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",3967,17.4758,
+"Long-tailed Duck
+[Clangula hyemalis]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",9024,46.5155,
+"Long-tailed Duck
+[Clangula hyemalis]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",6805,30.0773,
+"Long-tailed Duck
+[Clangula hyemalis]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",21954,96.3106,
+"Long-tailed Duck
+[Clangula hyemalis]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",374,1.9224,
+"Long-tailed Duck
+[Clangula hyemalis]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",4110,22.5576,
+"Long-tailed Duck
+[Clangula hyemalis]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",5115,28.5356,
+"Mallard
+[Anas platyrhynchos]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",5352,23.5771,
+"Mallard
+[Anas platyrhynchos]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",3485,17.9639,
+"Mallard
+[Anas platyrhynchos]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",4836,21.3746,
+"Mallard
+[Anas platyrhynchos]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",2239,9.8223,
+"Mallard
+[Anas platyrhynchos]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",5251,26.9905,
+"Mallard
+[Anas platyrhynchos]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",4425,24.2865,
+"Mallard
+[Anas platyrhynchos]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",2777,15.4923,
+"Marsh Wren
+[Cistothorus palustris]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Marsh Wren
+[Cistothorus palustris]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Marsh Wren
+[Cistothorus palustris]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Marsh Wren
+[Cistothorus palustris]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Marsh Wren
+[Cistothorus palustris]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Marsh Wren
+[Cistothorus palustris]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Marsh Wren
+[Cistothorus palustris]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",cw,0.0000,
+"Merlin
+[Falco columbarius]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",2,0.0088,
+"Merlin
+[Falco columbarius]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",3,0.0155,
+"Merlin
+[Falco columbarius]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",1,0.0044,
+"Merlin
+[Falco columbarius]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",3,0.0132,
+"Merlin
+[Falco columbarius]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",4,0.0206,
+"Merlin
+[Falco columbarius]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",5,0.0274,
+"Merlin
+[Falco columbarius]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",4,0.0223,
+"Mourning Dove
+[Zenaida macroura]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",1986,8.7489,
+"Mourning Dove
+[Zenaida macroura]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",2180,11.2371,
+"Mourning Dove
+[Zenaida macroura]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",890,3.9337,
+"Mourning Dove
+[Zenaida macroura]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",657,2.8822,
+"Mourning Dove
+[Zenaida macroura]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",663,3.4079,
+"Mourning Dove
+[Zenaida macroura]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",1023,5.6147,
+"Mourning Dove
+[Zenaida macroura]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",574,3.2022,
+"Mute Swan
+[Cygnus olor]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",138,0.6079,
+"Mute Swan
+[Cygnus olor]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",86,0.4433,
+"Mute Swan
+[Cygnus olor]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",134,0.5923,
+"Mute Swan
+[Cygnus olor]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",38,0.1667,
+"Mute Swan
+[Cygnus olor]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",84,0.4318,
+"Mute Swan
+[Cygnus olor]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",31,0.1701,
+"Mute Swan
+[Cygnus olor]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",35,0.1953,
+"Northern Cardinal
+[Cardinalis cardinalis]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",619,2.7269,
+"Northern Cardinal
+[Cardinalis cardinalis]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",480,2.4742,
+"Northern Cardinal
+[Cardinalis cardinalis]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",545,2.4088,
+"Northern Cardinal
+[Cardinalis cardinalis]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",429,1.8820,
+"Northern Cardinal
+[Cardinalis cardinalis]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",489,2.5135,
+"Northern Cardinal
+[Cardinalis cardinalis]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",486,2.6674,
+"Northern Cardinal
+[Cardinalis cardinalis]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",419,2.3375,
+"Northern Flicker
+[Colaptes auratus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Northern Flicker
+[Colaptes auratus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Northern Flicker
+[Colaptes auratus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",6,0.0265,
+"Northern Flicker
+[Colaptes auratus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Northern Flicker
+[Colaptes auratus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",3,0.0154,
+"Northern Flicker
+[Colaptes auratus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Northern Flicker
+[Colaptes auratus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Northern Flicker (Yellow-shafted)
+[Colaptes auratus auratus/luteus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",10,0.0441,
+"Northern Flicker (Yellow-shafted)
+[Colaptes auratus auratus/luteus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",8,0.0412,
+"Northern Flicker (Yellow-shafted)
+[Colaptes auratus auratus/luteus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Northern Flicker (Yellow-shafted)
+[Colaptes auratus auratus/luteus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",7,0.0307,
+"Northern Flicker (Yellow-shafted)
+[Colaptes auratus auratus/luteus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Northern Flicker (Yellow-shafted)
+[Colaptes auratus auratus/luteus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",5,0.0274,
+"Northern Flicker (Yellow-shafted)
+[Colaptes auratus auratus/luteus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",4,0.0223,
+"Northern Goshawk
+[Accipiter gentilis]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Northern Goshawk
+[Accipiter gentilis]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",1,0.0052,
+"Northern Goshawk
+[Accipiter gentilis]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Northern Goshawk
+[Accipiter gentilis]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",1,0.0044,
+"Northern Goshawk
+[Accipiter gentilis]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Northern Goshawk
+[Accipiter gentilis]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Northern Goshawk
+[Accipiter gentilis]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Northern Harrier
+[Circus cyaneus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",1,0.0044,
+"Northern Harrier
+[Circus cyaneus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",1,0.0052,
+"Northern Harrier
+[Circus cyaneus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",3,0.0133,
+"Northern Harrier
+[Circus cyaneus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",1,0.0044,
+"Northern Harrier
+[Circus cyaneus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",1,0.0051,
+"Northern Harrier
+[Circus cyaneus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",2,0.0110,
+"Northern Harrier
+[Circus cyaneus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",4,0.0223,
+"Northern Mockingbird
+[Mimus polyglottos]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",28,0.1233,
+"Northern Mockingbird
+[Mimus polyglottos]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",28,0.1443,
+"Northern Mockingbird
+[Mimus polyglottos]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",14,0.0619,
+"Northern Mockingbird
+[Mimus polyglottos]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",26,0.1141,
+"Northern Mockingbird
+[Mimus polyglottos]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",14,0.0720,
+"Northern Mockingbird
+[Mimus polyglottos]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",13,0.0714,
+"Northern Mockingbird
+[Mimus polyglottos]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",20,0.1116,
+"Northern Pintail
+[Anas acuta]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",30,0.1322,
+"Northern Pintail
+[Anas acuta]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",12,0.0619,
+"Northern Pintail
+[Anas acuta]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",12,0.0530,
+"Northern Pintail
+[Anas acuta]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Northern Pintail
+[Anas acuta]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",4,0.0206,
+"Northern Pintail
+[Anas acuta]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",2,0.0110,
+"Northern Pintail
+[Anas acuta]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",2,0.0112,
+"Northern Saw-whet Owl
+[Aegolius acadicus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Northern Saw-whet Owl
+[Aegolius acadicus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Northern Saw-whet Owl
+[Aegolius acadicus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Northern Saw-whet Owl
+[Aegolius acadicus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Northern Saw-whet Owl
+[Aegolius acadicus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",2,0.0103,
+"Northern Saw-whet Owl
+[Aegolius acadicus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",1,0.0055,
+"Northern Saw-whet Owl
+[Aegolius acadicus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Northern Shoveler
+[Anas clypeata]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",60,0.2643,
+"Northern Shoveler
+[Anas clypeata]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",32,0.1649,
+"Northern Shoveler
+[Anas clypeata]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",36,0.1591,
+"Northern Shoveler
+[Anas clypeata]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",179,0.7853,
+"Northern Shoveler
+[Anas clypeata]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",285,1.4649,
+"Northern Shoveler
+[Anas clypeata]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",195,1.0703,
+"Northern Shoveler
+[Anas clypeata]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",227,1.2664,
+"Northern Shrike
+[Lanius excubitor]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",4,0.0176,
+"Northern Shrike
+[Lanius excubitor]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",7,0.0361,
+"Northern Shrike
+[Lanius excubitor]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",4,0.0177,
+"Northern Shrike
+[Lanius excubitor]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",4,0.0175,
+"Northern Shrike
+[Lanius excubitor]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",1,0.0051,
+"Northern Shrike
+[Lanius excubitor]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",5,0.0274,
+"Northern Shrike
+[Lanius excubitor]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",1,0.0056,
+"Orange-crowned Warbler
+[Oreothlypis celata]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Orange-crowned Warbler
+[Oreothlypis celata]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Orange-crowned Warbler
+[Oreothlypis celata]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",1,0.0044,
+"Orange-crowned Warbler
+[Oreothlypis celata]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Orange-crowned Warbler
+[Oreothlypis celata]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Orange-crowned Warbler
+[Oreothlypis celata]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",cw,0.0000,"US,"
+"Orange-crowned Warbler
+[Oreothlypis celata]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Pacific Loon
+[Gavia pacifica]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Pacific Loon
+[Gavia pacifica]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Pacific Loon
+[Gavia pacifica]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Pacific Loon
+[Gavia pacifica]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Pacific Loon
+[Gavia pacifica]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",1,0.0051,"US,"
+"Pacific Loon
+[Gavia pacifica]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Pacific Loon
+[Gavia pacifica]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Pacific/Winter Wren
+[Troglodytes pacificus/hiemalis]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",14,0.0617,
+"Pacific/Winter Wren
+[Troglodytes pacificus/hiemalis]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",38,0.1959,
+"Pacific/Winter Wren
+[Troglodytes pacificus/hiemalis]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Pacific/Winter Wren
+[Troglodytes pacificus/hiemalis]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Pacific/Winter Wren
+[Troglodytes pacificus/hiemalis]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Pacific/Winter Wren
+[Troglodytes pacificus/hiemalis]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Pacific/Winter Wren
+[Troglodytes pacificus/hiemalis]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Palm Warbler (Western)
+[Setophaga palmarum palmarum]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Palm Warbler (Western)
+[Setophaga palmarum palmarum]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Palm Warbler (Western)
+[Setophaga palmarum palmarum]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Palm Warbler (Western)
+[Setophaga palmarum palmarum]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Palm Warbler (Western)
+[Setophaga palmarum palmarum]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Palm Warbler (Western)
+[Setophaga palmarum palmarum]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Palm Warbler (Western)
+[Setophaga palmarum palmarum]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",1,0.0056,"US,"
+"Peregrine Falcon
+[Falco peregrinus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",4,0.0176,
+"Peregrine Falcon
+[Falco peregrinus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",3,0.0155,
+"Peregrine Falcon
+[Falco peregrinus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",5,0.0221,
+"Peregrine Falcon
+[Falco peregrinus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",4,0.0175,
+"Peregrine Falcon
+[Falco peregrinus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",3,0.0154,
+"Peregrine Falcon
+[Falco peregrinus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",4,0.0220,
+"Peregrine Falcon
+[Falco peregrinus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",4,0.0223,
+"Pied-billed Grebe
+[Podilymbus podiceps]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",1,0.0044,
+"Pied-billed Grebe
+[Podilymbus podiceps]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",3,0.0155,
+"Pied-billed Grebe
+[Podilymbus podiceps]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",1,0.0044,
+"Pied-billed Grebe
+[Podilymbus podiceps]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",1,0.0044,
+"Pied-billed Grebe
+[Podilymbus podiceps]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",2,0.0103,
+"Pied-billed Grebe
+[Podilymbus podiceps]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Pied-billed Grebe
+[Podilymbus podiceps]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Pileated Woodpecker
+[Dryocopus pileatus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",13,0.0573,
+"Pileated Woodpecker
+[Dryocopus pileatus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",7,0.0361,
+"Pileated Woodpecker
+[Dryocopus pileatus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",7,0.0309,
+"Pileated Woodpecker
+[Dryocopus pileatus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",3,0.0132,
+"Pileated Woodpecker
+[Dryocopus pileatus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",1,0.0051,
+"Pileated Woodpecker
+[Dryocopus pileatus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",4,0.0220,
+"Pileated Woodpecker
+[Dryocopus pileatus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",7,0.0391,
+"Pine Grosbeak
+[Pinicola enucleator]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Pine Grosbeak
+[Pinicola enucleator]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Pine Grosbeak
+[Pinicola enucleator]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Pine Grosbeak
+[Pinicola enucleator]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Pine Grosbeak
+[Pinicola enucleator]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",1,0.0051,
+"Pine Grosbeak
+[Pinicola enucleator]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Pine Grosbeak
+[Pinicola enucleator]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Pine Siskin
+[Spinus pinus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",34,0.1498,
+"Pine Siskin
+[Spinus pinus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",cw,0.0000,
+"Pine Siskin
+[Spinus pinus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",130,0.5746,
+"Pine Siskin
+[Spinus pinus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",14,0.0614,
+"Pine Siskin
+[Spinus pinus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",154,0.7916,
+"Pine Siskin
+[Spinus pinus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",3,0.0165,
+"Pine Siskin
+[Spinus pinus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",32,0.1785,
+"Pomarine Jaeger
+[Stercorarius pomarinus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Pomarine Jaeger
+[Stercorarius pomarinus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Pomarine Jaeger
+[Stercorarius pomarinus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",1,0.0044,
+"Pomarine Jaeger
+[Stercorarius pomarinus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Pomarine Jaeger
+[Stercorarius pomarinus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Pomarine Jaeger
+[Stercorarius pomarinus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",1,0.0055,"US,"
+"Pomarine Jaeger
+[Stercorarius pomarinus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",1,0.0056,"US,"
+"Purple Finch
+[Haemorhous purpureus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",3,0.0132,
+"Purple Finch
+[Haemorhous purpureus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",2,0.0103,
+"Purple Finch
+[Haemorhous purpureus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",4,0.0177,
+"Purple Finch
+[Haemorhous purpureus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",41,0.1799,
+"Purple Finch
+[Haemorhous purpureus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",3,0.0154,
+"Purple Finch
+[Haemorhous purpureus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",1,0.0055,
+"Purple Finch
+[Haemorhous purpureus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Red Crossbill
+[Loxia curvirostra]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",1,0.0044,
+"Red Crossbill
+[Loxia curvirostra]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Red Crossbill
+[Loxia curvirostra]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Red Crossbill
+[Loxia curvirostra]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Red Crossbill
+[Loxia curvirostra]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Red Crossbill
+[Loxia curvirostra]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Red Crossbill
+[Loxia curvirostra]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Red-bellied Woodpecker
+[Melanerpes carolinus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",60,0.2643,
+"Red-bellied Woodpecker
+[Melanerpes carolinus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",42,0.2165,
+"Red-bellied Woodpecker
+[Melanerpes carolinus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",82,0.3624,
+"Red-bellied Woodpecker
+[Melanerpes carolinus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",61,0.2676,
+"Red-bellied Woodpecker
+[Melanerpes carolinus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",49,0.2519,
+"Red-bellied Woodpecker
+[Melanerpes carolinus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",84,0.4610,
+"Red-bellied Woodpecker
+[Melanerpes carolinus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",83,0.4630,
+"Red-breasted Merganser
+[Mergus serrator]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",502,2.2115,
+"Red-breasted Merganser
+[Mergus serrator]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",589,3.0361,
+"Red-breasted Merganser
+[Mergus serrator]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",152,0.6718,
+"Red-breasted Merganser
+[Mergus serrator]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",252,1.1055,
+"Red-breasted Merganser
+[Mergus serrator]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",334,1.7168,
+"Red-breasted Merganser
+[Mergus serrator]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",420,2.3052,
+"Red-breasted Merganser
+[Mergus serrator]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",148,0.8257,
+"Red-breasted Nuthatch
+[Sitta canadensis]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",27,0.1189,
+"Red-breasted Nuthatch
+[Sitta canadensis]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",31,0.1598,
+"Red-breasted Nuthatch
+[Sitta canadensis]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",38,0.1680,
+"Red-breasted Nuthatch
+[Sitta canadensis]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",21,0.0921,
+"Red-breasted Nuthatch
+[Sitta canadensis]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",69,0.3547,
+"Red-breasted Nuthatch
+[Sitta canadensis]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",9,0.0494,
+"Red-breasted Nuthatch
+[Sitta canadensis]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",34,0.1897,
+"Red-necked Grebe
+[Podiceps grisegena]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",16,0.0705,
+"Red-necked Grebe
+[Podiceps grisegena]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",2,0.0103,
+"Red-necked Grebe
+[Podiceps grisegena]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Red-necked Grebe
+[Podiceps grisegena]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",1,0.0044,
+"Red-necked Grebe
+[Podiceps grisegena]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Red-necked Grebe
+[Podiceps grisegena]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",cw,0.0000,
+"Red-necked Grebe
+[Podiceps grisegena]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Red-shouldered Hawk
+[Buteo lineatus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",1,0.0044,
+"Red-shouldered Hawk
+[Buteo lineatus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Red-shouldered Hawk
+[Buteo lineatus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",1,0.0044,
+"Red-shouldered Hawk
+[Buteo lineatus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Red-shouldered Hawk
+[Buteo lineatus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Red-shouldered Hawk
+[Buteo lineatus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Red-shouldered Hawk
+[Buteo lineatus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Red-tailed Hawk
+[Buteo jamaicensis]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",158,0.6960,
+"Red-tailed Hawk
+[Buteo jamaicensis]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",135,0.6959,
+"Red-tailed Hawk
+[Buteo jamaicensis]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",174,0.7691,
+"Red-tailed Hawk
+[Buteo jamaicensis]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",109,0.4782,
+"Red-tailed Hawk
+[Buteo jamaicensis]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",93,0.4780,
+"Red-tailed Hawk
+[Buteo jamaicensis]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",146,0.8013,
+"Red-tailed Hawk
+[Buteo jamaicensis]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",126,0.7029,
+"Red-throated Loon
+[Gavia stellata]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",cw,0.0000,
+"Red-throated Loon
+[Gavia stellata]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",cw,0.0000,
+"Red-throated Loon
+[Gavia stellata]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Red-throated Loon
+[Gavia stellata]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Red-throated Loon
+[Gavia stellata]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Red-throated Loon
+[Gavia stellata]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",1,0.0055,
+"Red-throated Loon
+[Gavia stellata]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Red-winged Blackbird
+[Agelaius phoeniceus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",11,0.0485,
+"Red-winged Blackbird
+[Agelaius phoeniceus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",8,0.0412,
+"Red-winged Blackbird
+[Agelaius phoeniceus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Red-winged Blackbird
+[Agelaius phoeniceus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",1,0.0044,
+"Red-winged Blackbird
+[Agelaius phoeniceus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",21,0.1079,
+"Red-winged Blackbird
+[Agelaius phoeniceus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",2,0.0110,
+"Red-winged Blackbird
+[Agelaius phoeniceus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",2,0.0112,
+"Redhead
+[Aythya americana]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",23,0.1013,
+"Redhead
+[Aythya americana]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",18,0.0928,
+"Redhead
+[Aythya americana]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",50,0.2210,
+"Redhead
+[Aythya americana]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",13,0.0570,
+"Redhead
+[Aythya americana]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",5,0.0257,
+"Redhead
+[Aythya americana]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",7,0.0384,
+"Redhead
+[Aythya americana]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",11,0.0614,
+"Ring-billed Gull
+[Larus delawarensis]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",974,4.2907,
+"Ring-billed Gull
+[Larus delawarensis]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",1959,10.0979,
+"Ring-billed Gull
+[Larus delawarensis]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",419,1.8519,
+"Ring-billed Gull
+[Larus delawarensis]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",2120,9.3003,
+"Ring-billed Gull
+[Larus delawarensis]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",2939,15.1067,
+"Ring-billed Gull
+[Larus delawarensis]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",1432,7.8595,
+"Ring-billed Gull
+[Larus delawarensis]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",1876,10.4658,
+"Ring-necked Duck
+[Aythya collaris]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",19,0.0837,
+"Ring-necked Duck
+[Aythya collaris]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",124,0.6392,
+"Ring-necked Duck
+[Aythya collaris]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",151,0.6674,
+"Ring-necked Duck
+[Aythya collaris]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",25,0.1097,
+"Ring-necked Duck
+[Aythya collaris]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",95,0.4883,
+"Ring-necked Duck
+[Aythya collaris]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",4,0.0220,
+"Ring-necked Duck
+[Aythya collaris]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",38,0.2120,
+"Ring-necked Pheasant
+[Phasianus colchicus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",9,0.0396,
+"Ring-necked Pheasant
+[Phasianus colchicus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Ring-necked Pheasant
+[Phasianus colchicus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",2,0.0088,
+"Ring-necked Pheasant
+[Phasianus colchicus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",cw,0.0000,
+"Ring-necked Pheasant
+[Phasianus colchicus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Ring-necked Pheasant
+[Phasianus colchicus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Ring-necked Pheasant
+[Phasianus colchicus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Rock Pigeon (Feral Pigeon)
+[Columba livia (Feral Pigeon)]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",2296,10.1145,
+"Rock Pigeon (Feral Pigeon)
+[Columba livia (Feral Pigeon)]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",1626,8.3814,
+"Rock Pigeon (Feral Pigeon)
+[Columba livia (Feral Pigeon)]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",2309,10.2055,
+"Rock Pigeon (Feral Pigeon)
+[Columba livia (Feral Pigeon)]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",841,3.6894,
+"Rock Pigeon (Feral Pigeon)
+[Columba livia (Feral Pigeon)]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",1081,5.5564,
+"Rock Pigeon (Feral Pigeon)
+[Columba livia (Feral Pigeon)]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",1210,6.6411,
+"Rock Pigeon (Feral Pigeon)
+[Columba livia (Feral Pigeon)]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",1443,8.0502,
+"Rose-breasted Grosbeak
+[Pheucticus ludovicianus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Rose-breasted Grosbeak
+[Pheucticus ludovicianus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Rose-breasted Grosbeak
+[Pheucticus ludovicianus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Rose-breasted Grosbeak
+[Pheucticus ludovicianus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",1,0.0044,
+"Rose-breasted Grosbeak
+[Pheucticus ludovicianus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Rose-breasted Grosbeak
+[Pheucticus ludovicianus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Rose-breasted Grosbeak
+[Pheucticus ludovicianus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Rough-legged Hawk
+[Buteo lagopus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",3,0.0132,
+"Rough-legged Hawk
+[Buteo lagopus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",1,0.0052,
+"Rough-legged Hawk
+[Buteo lagopus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",3,0.0133,
+"Rough-legged Hawk
+[Buteo lagopus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",1,0.0044,
+"Rough-legged Hawk
+[Buteo lagopus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",cw,0.0000,
+"Rough-legged Hawk
+[Buteo lagopus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",6,0.0329,
+"Rough-legged Hawk
+[Buteo lagopus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",2,0.0112,
+"Ruby-crowned Kinglet
+[Regulus calendula]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Ruby-crowned Kinglet
+[Regulus calendula]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Ruby-crowned Kinglet
+[Regulus calendula]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Ruby-crowned Kinglet
+[Regulus calendula]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Ruby-crowned Kinglet
+[Regulus calendula]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Ruby-crowned Kinglet
+[Regulus calendula]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",1,0.0055,
+"Ruby-crowned Kinglet
+[Regulus calendula]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Ruddy Duck
+[Oxyura jamaicensis]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",882,3.8855,
+"Ruddy Duck
+[Oxyura jamaicensis]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",423,2.1804,
+"Ruddy Duck
+[Oxyura jamaicensis]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",450,1.9890,
+"Ruddy Duck
+[Oxyura jamaicensis]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",630,2.7638,
+"Ruddy Duck
+[Oxyura jamaicensis]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",543,2.7911,
+"Ruddy Duck
+[Oxyura jamaicensis]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",41,0.2250,
+"Ruddy Duck
+[Oxyura jamaicensis]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",39,0.2176,
+"Rusty Blackbird
+[Euphagus carolinus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Rusty Blackbird
+[Euphagus carolinus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Rusty Blackbird
+[Euphagus carolinus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Rusty Blackbird
+[Euphagus carolinus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",13,0.0570,
+"Rusty Blackbird
+[Euphagus carolinus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Rusty Blackbird
+[Euphagus carolinus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",cw,0.0000,
+"Rusty Blackbird
+[Euphagus carolinus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Sandhill Crane
+[Grus canadensis]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Sandhill Crane
+[Grus canadensis]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Sandhill Crane
+[Grus canadensis]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Sandhill Crane
+[Grus canadensis]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Sandhill Crane
+[Grus canadensis]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",2,0.0103,
+"Sandhill Crane
+[Grus canadensis]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Sandhill Crane
+[Grus canadensis]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Sharp-shinned Hawk
+[Accipiter striatus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",12,0.0529,
+"Sharp-shinned Hawk
+[Accipiter striatus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",12,0.0619,
+"Sharp-shinned Hawk
+[Accipiter striatus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",12,0.0530,
+"Sharp-shinned Hawk
+[Accipiter striatus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",10,0.0439,
+"Sharp-shinned Hawk
+[Accipiter striatus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",6,0.0308,
+"Sharp-shinned Hawk
+[Accipiter striatus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",7,0.0384,
+"Sharp-shinned Hawk
+[Accipiter striatus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",10,0.0558,
+"Snow Bunting
+[Plectrophenax nivalis]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",243,1.0705,
+"Snow Bunting
+[Plectrophenax nivalis]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",126,0.6495,
+"Snow Bunting
+[Plectrophenax nivalis]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",259,1.1448,
+"Snow Bunting
+[Plectrophenax nivalis]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",2,0.0088,
+"Snow Bunting
+[Plectrophenax nivalis]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",1,0.0051,
+"Snow Bunting
+[Plectrophenax nivalis]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",188,1.0318,
+"Snow Bunting
+[Plectrophenax nivalis]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Snow Goose
+[Chen caerulescens]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Snow Goose
+[Chen caerulescens]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Snow Goose
+[Chen caerulescens]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Snow Goose
+[Chen caerulescens]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Snow Goose
+[Chen caerulescens]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",cw,0.0000,
+"Snow Goose
+[Chen caerulescens]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Snow Goose
+[Chen caerulescens]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Snowy Owl
+[Bubo scandiacus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",1,0.0044,
+"Snowy Owl
+[Bubo scandiacus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",1,0.0052,
+"Snowy Owl
+[Bubo scandiacus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Snowy Owl
+[Bubo scandiacus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Snowy Owl
+[Bubo scandiacus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Snowy Owl
+[Bubo scandiacus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",2,0.0110,
+"Snowy Owl
+[Bubo scandiacus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",cw,0.0000,
+"Song Sparrow
+[Melospiza melodia]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",74,0.3260,
+"Song Sparrow
+[Melospiza melodia]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",18,0.0928,
+"Song Sparrow
+[Melospiza melodia]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",23,0.1017,
+"Song Sparrow
+[Melospiza melodia]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",22,0.0965,
+"Song Sparrow
+[Melospiza melodia]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",21,0.1079,
+"Song Sparrow
+[Melospiza melodia]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",21,0.1153,
+"Song Sparrow
+[Melospiza melodia]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",12,0.0669,
+"Surf Scoter
+[Melanitta perspicillata]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",22,0.0969,
+"Surf Scoter
+[Melanitta perspicillata]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",181,0.9330,
+"Surf Scoter
+[Melanitta perspicillata]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",34,0.1503,
+"Surf Scoter
+[Melanitta perspicillata]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",137,0.6010,
+"Surf Scoter
+[Melanitta perspicillata]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",59,0.3033,
+"Surf Scoter
+[Melanitta perspicillata]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",31,0.1701,
+"Surf Scoter
+[Melanitta perspicillata]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",54,0.3013,
+"Swamp Sparrow
+[Melospiza georgiana]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",8,0.0352,
+"Swamp Sparrow
+[Melospiza georgiana]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",4,0.0206,
+"Swamp Sparrow
+[Melospiza georgiana]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",6,0.0265,
+"Swamp Sparrow
+[Melospiza georgiana]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",2,0.0088,
+"Swamp Sparrow
+[Melospiza georgiana]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Swamp Sparrow
+[Melospiza georgiana]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",3,0.0165,
+"Swamp Sparrow
+[Melospiza georgiana]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",6,0.0335,
+"Thayer's Gull
+[Larus thayeri]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",1,0.0044,
+"Thayer's Gull
+[Larus thayeri]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Thayer's Gull
+[Larus thayeri]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Thayer's Gull
+[Larus thayeri]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",1,0.0044,
+"Thayer's Gull
+[Larus thayeri]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",1,0.0051,
+"Thayer's Gull
+[Larus thayeri]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",1,0.0055,
+"Thayer's Gull
+[Larus thayeri]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Trumpeter Swan
+[Cygnus buccinator]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",184,0.8106,
+"Trumpeter Swan
+[Cygnus buccinator]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",153,0.7887,
+"Trumpeter Swan
+[Cygnus buccinator]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",193,0.8530,
+"Trumpeter Swan
+[Cygnus buccinator]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",191,0.8379,
+"Trumpeter Swan
+[Cygnus buccinator]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",118,0.6065,
+"Trumpeter Swan
+[Cygnus buccinator]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",187,1.0263,
+"Trumpeter Swan
+[Cygnus buccinator]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",95,0.5300,
+"Tufted Titmouse
+[Baeolophus bicolor]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",1,0.0044,
+"Tufted Titmouse
+[Baeolophus bicolor]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Tufted Titmouse
+[Baeolophus bicolor]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",1,0.0044,
+"Tufted Titmouse
+[Baeolophus bicolor]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Tufted Titmouse
+[Baeolophus bicolor]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",1,0.0051,
+"Tufted Titmouse
+[Baeolophus bicolor]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",1,0.0055,
+"Tufted Titmouse
+[Baeolophus bicolor]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",1,0.0056,
+"Tundra Swan
+[Cygnus columbianus]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Tundra Swan
+[Cygnus columbianus]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",32,0.1649,
+"Tundra Swan
+[Cygnus columbianus]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",21,0.0928,
+"Tundra Swan
+[Cygnus columbianus]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",6,0.0263,
+"Tundra Swan
+[Cygnus columbianus]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",13,0.0668,
+"Tundra Swan
+[Cygnus columbianus]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",5,0.0274,
+"Tundra Swan
+[Cygnus columbianus]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Turkey Vulture
+[Cathartes aura]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Turkey Vulture
+[Cathartes aura]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",cw,0.0000,
+"Turkey Vulture
+[Cathartes aura]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Turkey Vulture
+[Cathartes aura]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Turkey Vulture
+[Cathartes aura]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Turkey Vulture
+[Cathartes aura]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Turkey Vulture
+[Cathartes aura]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",2,0.0112,"HC,"
+"White-breasted Nuthatch
+[Sitta carolinensis]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",256,1.1278,
+"White-breasted Nuthatch
+[Sitta carolinensis]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",257,1.3247,
+"White-breasted Nuthatch
+[Sitta carolinensis]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",201,0.8884,
+"White-breasted Nuthatch
+[Sitta carolinensis]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",165,0.7238,
+"White-breasted Nuthatch
+[Sitta carolinensis]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",161,0.8276,
+"White-breasted Nuthatch
+[Sitta carolinensis]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",135,0.7409,
+"White-breasted Nuthatch
+[Sitta carolinensis]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",254,1.4170,
+"White-crowned Sparrow
+[Zonotrichia leucophrys]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",9,0.0396,
+"White-crowned Sparrow
+[Zonotrichia leucophrys]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"White-crowned Sparrow
+[Zonotrichia leucophrys]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",5,0.0221,
+"White-crowned Sparrow
+[Zonotrichia leucophrys]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",1,0.0044,
+"White-crowned Sparrow
+[Zonotrichia leucophrys]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",4,0.0206,
+"White-crowned Sparrow
+[Zonotrichia leucophrys]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",2,0.0110,
+"White-crowned Sparrow
+[Zonotrichia leucophrys]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",2,0.0112,
+"White-throated Sparrow
+[Zonotrichia albicollis]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",124,0.5463,
+"White-throated Sparrow
+[Zonotrichia albicollis]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",57,0.2938,
+"White-throated Sparrow
+[Zonotrichia albicollis]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",113,0.4994,
+"White-throated Sparrow
+[Zonotrichia albicollis]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",66,0.2895,
+"White-throated Sparrow
+[Zonotrichia albicollis]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",58,0.2981,
+"White-throated Sparrow
+[Zonotrichia albicollis]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",51,0.2799,
+"White-throated Sparrow
+[Zonotrichia albicollis]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",76,0.4240,
+"White-winged Crossbill
+[Loxia leucoptera]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",2493,10.9824,
+"White-winged Crossbill
+[Loxia leucoptera]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"White-winged Crossbill
+[Loxia leucoptera]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"White-winged Crossbill
+[Loxia leucoptera]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"White-winged Crossbill
+[Loxia leucoptera]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",cw,0.0000,
+"White-winged Crossbill
+[Loxia leucoptera]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"White-winged Crossbill
+[Loxia leucoptera]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"White-winged Scoter
+[Melanitta fusca]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",379,1.6696,
+"White-winged Scoter
+[Melanitta fusca]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",667,3.4381,
+"White-winged Scoter
+[Melanitta fusca]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",576,2.5459,
+"White-winged Scoter
+[Melanitta fusca]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",474,2.0794,
+"White-winged Scoter
+[Melanitta fusca]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",701,3.6032,
+"White-winged Scoter
+[Melanitta fusca]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",504,2.7662,
+"White-winged Scoter
+[Melanitta fusca]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",409,2.2817,
+"Wild Turkey
+[Meleagris gallopavo]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",59,0.2599,
+"Wild Turkey
+[Meleagris gallopavo]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",30,0.1546,
+"Wild Turkey
+[Meleagris gallopavo]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",66,0.2917,
+"Wild Turkey
+[Meleagris gallopavo]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",16,0.0702,
+"Wild Turkey
+[Meleagris gallopavo]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",98,0.5037,
+"Wild Turkey
+[Meleagris gallopavo]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",89,0.4885,
+"Wild Turkey
+[Meleagris gallopavo]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",76,0.4240,
+"Wilson's Warbler
+[Cardellina pusilla]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Wilson's Warbler
+[Cardellina pusilla]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Wilson's Warbler
+[Cardellina pusilla]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Wilson's Warbler
+[Cardellina pusilla]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",1,0.0044,"US,"
+"Wilson's Warbler
+[Cardellina pusilla]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Wilson's Warbler
+[Cardellina pusilla]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Wilson's Warbler
+[Cardellina pusilla]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"Winter Wren
+[Troglodytes hiemalis]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Winter Wren
+[Troglodytes hiemalis]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"Winter Wren
+[Troglodytes hiemalis]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",24,0.1061,
+"Winter Wren
+[Troglodytes hiemalis]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",7,0.0307,
+"Winter Wren
+[Troglodytes hiemalis]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",11,0.0565,
+"Winter Wren
+[Troglodytes hiemalis]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",25,0.1372,
+"Winter Wren
+[Troglodytes hiemalis]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",17,0.0948,
+"Wood Duck
+[Aix sponsa]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",3,0.0132,
+"Wood Duck
+[Aix sponsa]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",6,0.0309,
+"Wood Duck
+[Aix sponsa]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",4,0.0177,
+"Wood Duck
+[Aix sponsa]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Wood Duck
+[Aix sponsa]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",cw,0.0000,
+"Wood Duck
+[Aix sponsa]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Wood Duck
+[Aix sponsa]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",,,
+"woodpecker sp.
+[Picidae sp.]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"woodpecker sp.
+[Picidae sp.]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",,,
+"woodpecker sp.
+[Picidae sp.]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"woodpecker sp.
+[Picidae sp.]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"woodpecker sp.
+[Picidae sp.]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"woodpecker sp.
+[Picidae sp.]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",1,0.0055,
+"woodpecker sp.
+[Picidae sp.]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",1,0.0056,
+"Yellow-bellied Sapsucker
+[Sphyrapicus varius]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",,,
+"Yellow-bellied Sapsucker
+[Sphyrapicus varius]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",1,0.0052,
+"Yellow-bellied Sapsucker
+[Sphyrapicus varius]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Yellow-bellied Sapsucker
+[Sphyrapicus varius]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",,,
+"Yellow-bellied Sapsucker
+[Sphyrapicus varius]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",,,
+"Yellow-bellied Sapsucker
+[Sphyrapicus varius]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",,,
+"Yellow-bellied Sapsucker
+[Sphyrapicus varius]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",1,0.0056,
+"Yellow-rumped Warbler (Myrtle)
+[Setophaga coronata coronata]","2008 [109]
+Count Date: 12/26/2008
+# Participants: 
+# Species Reported: 104
+Total Hrs.: 227.00",cw,0.0000,
+"Yellow-rumped Warbler (Myrtle)
+[Setophaga coronata coronata]","2009 [110]
+Count Date: 12/26/2009
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 194.00",6,0.0309,
+"Yellow-rumped Warbler (Myrtle)
+[Setophaga coronata coronata]","2010 [111]
+Count Date: 12/26/2010
+# Participants: 
+# Species Reported: 98
+Total Hrs.: 226.25",,,
+"Yellow-rumped Warbler (Myrtle)
+[Setophaga coronata coronata]","2011 [112]
+Count Date: 12/26/2011
+# Participants: 2
+# Species Reported: 105
+Total Hrs.: 227.95",5,0.0219,
+"Yellow-rumped Warbler (Myrtle)
+[Setophaga coronata coronata]","2012 [113]
+Count Date: 12/26/2012
+# Participants: 99
+# Species Reported: 99
+Total Hrs.: 194.55",1,0.0051,
+"Yellow-rumped Warbler (Myrtle)
+[Setophaga coronata coronata]","2013 [114]
+Count Date: 12/26/2013
+# Participants: 94
+# Species Reported: 98
+Total Hrs.: 182.20",3,0.0165,
+"Yellow-rumped Warbler (Myrtle)
+[Setophaga coronata coronata]","2014 [115]
+Count Date: 12/26/2014
+# Participants: 86
+# Species Reported: 99
+Total Hrs.: 179.25",3,0.0167,
+
+CountYear1,FirstName,LastName,Email,IsPrimary
+111,Thomas,Thomas,tthomas@cogeco.ca,Yes
+112,Thomas,Thomas,tthomas@cogeco.ca,Yes
+113,Thomas,Thomas,tthomas@cogeco.ca,Yes
+114,Thomas,Thomas,tthomas@cogeco.ca,Yes
+115,Thomas,Thomas,tthomas@cogeco.ca,Yes
+
+CountYear2,FirstName2,LastName2
+115,Ted,Armstrong
+115,Anna,Baranova
+115,Gerton,Basom
+115,Terry,Basom
+115,Christine,Bishop
+115,Barrie,Boatman
+115,Laurel,Boatman
+115,Jody,Bootsma
+115,Mike,Boyd
+115,Alex,Breitkopf
+115,John,Brett
+115,Hazel,Broker
+115,Wayne,Bullock
+115,Ron,Campeau
+115,Sue,Carson
+115,Heather,Cashin
+115,John,Cashin
+115,Shena,Chisholm
+115,Michael,Clark
+115,Mark,Cranford
+115,Tim,Cranford
+115,William J,Crins
+115,Jay,Crosthwait
+115,Jeni,Darling
+115,Sandy,Darling
+115,Ewout,Degelder
+115,Jan,Degelder
+115,Edward,Dinniwell
+115,Rob,Dobos
+115,Bryan,Drown
+115,Barney,Dutka
+115,Helene,Dutka
+115,Cheryl,Edgecombe
+115,Denys,Gardiner
+115,John ,Glover
+115,Jean,Hall-Armstrong
+115,Georg,Hentsch
+115,John,Holmstead
+115,Beth,Jeferrson
+115,Mark,Jennings
+115,Bill,Lamond
+115,Deborah,Lindeman
+115,Joyce,Litster
+115,Stuart,Mackenzie
+115,David,Maltby
+115,Len,Manning
+115,Mike,Margets
+115,Pat,Margets
+115,Marlene,McBrien
+115,Kevin,McLaughlin
+115,Gord,McNulty
+115,Matt,Mills
+115,David,Moffat
+115,Claire,Molloy
+115,Frank,Morley
+115,Chris,Motherwell
+115,Dilia,Narduzzi
+115,George,Naylor
+115,Josh,Nieuwenhuis
+115,John,Olmstead
+115,Daphne,Payne
+115,Richard,Poort
+115,Robert,Porter
+115,Dennis,Price
+115,Tammy,Quinn
+115,Bill,Read
+115,Joanne,Redwood
+115,David ,Restivo
+115,Caleb,Scholtens
+115,Peter,Scholtens
+115,William,Smith
+115,Robert,Stamp
+115,Barb,Strang
+115,Chris,Street
+115,H. Michael,Street
+115,Dana,Summach
+115,Neil,Taylor
+115,Tom,Thomas
+115,Doug,Tigchelaar
+115,Phillip,Waggett
+115,Rob,Waldhuber
+115,Joan,Wallace
+115,Angie,Williams
+115,Ken,Williams
+115,Ross,Wood
+115,Brian,Wylie
+114,Anna,Baranova
+114,Gerton,Basom
+114,Brad,Bloemendal
+114,Barrie,Boatman
+114,Laurel,Boatman
+114,Jody,Bootsma
+114,Mike,Boyd
+114,Alex,Breitkopf
+114,Trisia,Breitkopf
+114,Hazel,Broker
+114,Wayne,Bullock
+114,Alexis,Buset
+114,Ron,Campeau
+114,Sue,Carson
+114,Heather,Cashin
+114,John,Cashin
+114,Shena,Chisholm
+114,Michael,Clark
+114,Mark,Cranford
+114,Tim,Cranford
+114,William J,Crins
+114,Ian,Darling
+114,Jeni,Darling
+114,Sandy,Darling
+114,Sherry,Darling
+114,Ewout,Degelder
+114,Jan,Degelder
+114,Eric,Deruiter
+114,David,Dinniwell
+114,Edward,Dinniwell
+114,Graham,Dinniwell
+114,Kate,Dinniwell
+114,Robert,Dinniwell
+114,Rob,Dobos
+114,Bryan,Drown
+114,Ernie,Dunstan
+114,Barney,Dutka
+114,Helene,Dutka
+114,Cheryl,Edgecombe
+114,Denys,Gardiner
+114,Lynn,Hanna-Folkes
+114,John,Hannah
+114,Connie,Hendry
+114,Ian,Hendry
+114,John,Holmstead
+114,Kyna,Intini
+114,Wilma,Jairam
+114,Mark,Jennings
+114,Andrew,Keaveney
+114,Manfred,Kolster
+114,Ursula,Kolster
+114,Gordon,Lewer
+114,Joyce,Litster
+114,Tim,Lucas
+114,Robert,Maciver
+114,Stuart,Mackenzie
+114,Len,Manning
+114,Heather,McBrien
+114,Marlene,McBrien
+114,David,McCorquodale
+114,Sheldon,McGregor
+114,Spencer,McGregor
+114,Stuart,McGregor
+114,Barb,McKean
+114,Kevin,McLaughlin
+114,Matt,Mills
+114,Frank,Morley
+114,Chris,Motherwell
+114,George,Naylor
+114,Josh,Nieuwenhuis
+114,John,Olmstead
+114,Robert,Porter
+114,Bill,Read
+114,Joanne,Redwood
+114,David ,Restivo
+114,Yves,Scholten
+114,Caleb,Scholtens
+114,Peter,Scholtens
+114,Alfred,Senior
+114,William,Smith
+114,Robert,Stamp
+114,Barb,Strang
+114,Chris,Street
+114,H. Michael,Street
+114,Neil,Taylor
+114,Lisa,Teskey
+114,Tom,Thomas
+114,Phillip,Waggett
+114,Rob,Waldhuber
+114,Angie,Williams
+114,Ken,Williams
+114,Heather,Wilson
+114,Ross,Wood
+114,Brian,Wylie
+113,,
+113,,
+113,,
+113,,
+113,,
+113,Anna,Baranova
+113,Gerton,Basom
+113,Barrie,Boatman
+113,Laurel,Boatman
+113,Neal,Bonner
+113,James,Booker
+113,Peter,Booker
+113,Mike,Boyd
+113,John,Brett
+113,Hazel,Broker
+113,Fran,Bullock
+113,Wayne,Bullock
+113,Albert,Butwick
+113,Ezra,Campanelli
+113,Giovanni,Campanelli
+113,Lorenzo,Campanelli
+113,Ron,Campeau
+113,Sue,Carson
+113,Jerry,Chapple
+113,Michael,Clark
+113,Mark,Cranford
+113,Tim,Cranford
+113,William J,Crins
+113,Ian,Darling
+113,Jeni,Darling
+113,Sherry,Darling
+113,Ewout,Degelder
+113,Jan,Degelder
+113,Graham,Dinniwell
+113,Robert,Dinniwell
+113,Rob,Dobos
+113,Bryan,Drown
+113,Barney,Dutka
+113,Helene,Dutka
+113,Cheryl,Edgecombe
+113,Brian,Enter
+113,Kathy,Evans
+113,Lois,Evans
+113,Russ,Evans
+113,Chris,Gardiner
+113,Helga,Gerhardt
+113,Jim,Heslop
+113,Fran,Hicks
+113,Brandon,Holden
+113,Eric,Holden
+113,John,Holmstead
+113,Kyna,Intini
+113,Beth,Jeferrson
+113,Mark,Jennings
+113,Dave,Jolly
+113,Aaron,Keating
+113,Andrew,Keaveney
+113,Ursula,Kolster
+113,Gordon,Lewer
+113,Deborah,Lindeman
+113,Joyce,Litster
+113,Robert,Maciver
+113,Bruce,Mackenzie
+113,Stuart,Mackenzie
+113,Len,Manning
+113,Kevin,McLaughlin
+113,Matt,Mills
+113,Frank,Morley
+113,Ryk,Naves
+113,George,Naylor
+113,Daphne,Payne
+113,Dennis,Price
+113,Bill,Read
+113,David ,Restivo
+113,Orv,Reynolds
+113,Yves,Scholten
+113,Peter,Scholtens
+113,Alfred,Senior
+113,George,Sims
+113,Joan,Sims
+113,Charles,Smith
+113,William,Smith
+113,Rick,Snider
+113,Doris,Southwell
+113,Robert,Stamp
+113,Chris,Street
+113,H. Michael,Street
+113,Dana,Summach
+113,Neil,Taylor
+113,Lisa,Teskey
+113,Tom,Thomas
+113,Herman,Van Barnevelde
+113,Phillip,Waggett
+113,Rob,Waldhuber
+113,Joan,Wallace
+113,Angie,Williams
+113,Ken,Williams
+113,Ross,Wood
+113,Brian,Wylie
+112,Tom,Thomas
+112,Tom,Thomas
+
