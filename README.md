@@ -7,6 +7,19 @@ A Node.js module for parsing [Audubon's Christmas Bird Count CSV files](http://n
 
 To make the Audubon CBC more easily accessible by providing a JavaScript API more amenible to data analysis and interaction than pure CSV or XLS.
 
+## Setup
+
+```
+npm install audubon-cbc-csv-parser
+```
+
+## Example Usage
+
+```
+import cbcParse from 'audubon-cbc-csv-parser';
+const csvFile = cbcParse('src/test.csv');
+```
+
 ## Additional Terms of Use
 
 Please make note of [Audubon's Terms of Use for CBC Data](http://www.audubon.org/content/policy-regarding-use-christmas-bird-count-data) when downloading and using CBC data. It is not provided as true "Open Data" as there are conditions you must adhere to when making use of the data for non-personal use.
