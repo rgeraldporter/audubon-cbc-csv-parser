@@ -1,17 +1,21 @@
 # Parser for Audubon CBC CSV Files (audubon-cbc-csv-parser)
 ####v0.1.0
 
-A javascript module for parsing [Audubon's Christmas Bird Count CSV files](http://netapp.audubon.org/CBCObservation/).
+A Node.js module for parsing [Audubon's Christmas Bird Count CSV files](http://netapp.audubon.org/CBCObservation/).
+
+## Purpose
+
+To make the Audubon CBC more easily accessible by providing a JavaScript API more amenible to data analysis and interaction than pure CSV or XLS.
 
 ## Additional Terms of Use
 
-Please make note of [Audubon's Terms of Use for CBC Data](http://www.audubon.org/content/policy-regarding-use-christmas-bird-count-data) when using CBC data.
+Please make note of [Audubon's Terms of Use for CBC Data](http://www.audubon.org/content/policy-regarding-use-christmas-bird-count-data) when downloading and using CBC data. It is not provided as true "Open Data" as there are conditions you must adhere to when making use of the data for non-personal use.
 
 ## Copyrights & Notices
 
 The Christmas Bird Count (CBC) is a Registered Trademark of the National Audubon Society. CBC Data is provided by National Audubon Society and through the generous efforts of Bird Studies Canada and countless volunteers across the western hemisphere.
 
-##License
+## License
 
 The MIT License (MIT)
 
