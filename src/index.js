@@ -193,8 +193,8 @@ function processFile(str) {
     const rows = csvParse(csvFile);
     const speciesStartIndex = findSpecies(rows) + 1;
     const speciesEndIndex = findParticipants(rows);
-    const speciesRows = rows.slice(speciesStartIndex, speciesEndIndex - speciesStartIndex);
-    const countYearsRows = rows.slice(0, speciesStartIndex - 1)
+    const speciesRows = rows.slice(speciesStartIndex, speciesEndIndex - 1);
+    const countYearsRows = rows.slice(0, speciesStartIndex - 1);
 
     return {
         circle: parseCircle(rows[1]),

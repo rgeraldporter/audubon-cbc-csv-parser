@@ -229,7 +229,7 @@ function processFile(str) {
     var rows = csvParse(csvFile);
     var speciesStartIndex = findSpecies(rows) + 1;
     var speciesEndIndex = findParticipants(rows);
-    var speciesRows = rows.slice(speciesStartIndex, speciesEndIndex - speciesStartIndex);
+    var speciesRows = rows.slice(speciesStartIndex, speciesEndIndex - 1);
     var countYearsRows = rows.slice(0, speciesStartIndex - 1);
 
     return {

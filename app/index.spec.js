@@ -17,6 +17,7 @@ describe('the cbc-parser', function () {
         expect(csvFile.species[2014]['American Coot'].flags.emit()[0]).toBe('HC');
         expect(csvFile.species[2012]['duck sp.'].count.emit()).toBe(1023);
         expect(csvFile.species[2009]['Blue Jay'].perHour.emit()).toBe(1.8247);
+        expect(csvFile.species[2013]['Winter Wren'].count.emit()).toBe(25);
 
         expect(csvFile.countYears[2008].date.emit()).toBe('12/26/2008');
         expect(csvFile.countYears[2008].participants.emit()).toBe(81);

@@ -5,7 +5,7 @@ A Node.js module for parsing [Audubon's Christmas Bird Count CSV files](http://n
 
 ## Purpose
 
-To make the Audubon CBC more easily accessible by providing a JavaScript API more amenible to data analysis and interaction than pure CSV or XLS.
+To make the Audubon CBC data more easily accessible by providing a JavaScript API more amenible to data analysis and interaction than the currently available CSV or XLS files.
 
 ## Setup
 
