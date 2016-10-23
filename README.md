@@ -7,7 +7,7 @@ A Node.js module for parsing [Audubon's Christmas Bird Count CSV files](http://n
 
 To make the Audubon CBC data more easily accessible by providing a JavaScript API more amenible to data analysis and interaction than the currently available CSV or XLS files.
 
-**Note:** If you are just looking to convert Audubon's CSV files to a better format, you should be using the CLI Tools for the [Audubon CBC](https://github.com/rgeraldporter/audubon-cbc-cli).
+**Note:** If you are just looking to convert Audubon's CSV files to a better format, you should be using the [CLI Tools for the Audubon CBC](https://github.com/rgeraldporter/audubon-cbc-cli).
 
 ## Setup
 
