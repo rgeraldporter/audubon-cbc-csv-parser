@@ -1,7 +1,9 @@
 # Parser for Audubon CBC CSV Files (audubon-cbc-csv-parser)
-####v0.1.0
+####v0.1.2
 
 A Node.js module for parsing [Audubon's Christmas Bird Count CSV files](http://netapp.audubon.org/CBCObservation/).
+
+[![Build Status](https://travis-ci.org/rgeraldporter/audubon-cbc-csv-parser.svg?branch=master)](https://travis-ci.org/rgeraldporter/audubon-cbc-csv-parser)
 
 ## Purpose
 
