@@ -56,46 +56,14 @@ function csvParse(csv, reviver) {
     return table;
 }
 
-function findSpecies(arr) {
+const findSpecies = arr => arr.findIndex( arr => arr[0] === "COM_NAME" );
+const findParticipants = arr => arr.findIndex( arr => arr[1] === "FirstName" );
+const parseTaxa = str => str.split('[')[0].slice(0, -2);
+const findWeather = arr => arr.findIndex(arr => arr[0] === "CountYear5");
+const findOrg = arr => arr.findIndex(arr => arr[0] === "CountYear4");
 
-    return arr.findIndex(arr => {
-
-        return arr[0] === "COM_NAME";
-    });
-}
-
-function findParticipants(arr) {
-
-    return arr.findIndex(arr => {
-
-        return arr[1] === "FirstName";
-    });
-}
-
-function parseTaxa(str) {
-
-    return str.split('[')[0].slice(0, -2);
-}
-
-function findWeather(arr) {
-
-    return arr.findIndex(arr => {
-
-        return arr[0] === "CountYear5";
-    });
-}
-
-function findOrg(arr) {
-
-    return arr.findIndex(arr => {
-
-        return arr[0] === "CountYear4";
-    });
-}
-
-function parseWeatherData(arr) {
-
-    return arr.reduce((prev, current) => {
+const parseWeatherData = arr =>
+    arr.reduce((prev, current) => {
 
         const [
                 cbcYear, lowTemp, highTemp,
@@ -112,11 +80,9 @@ function parseWeatherData(arr) {
 
         return prev;
     }, {});
-}
 
-function parseMiscData(arr) {
-
-    return arr.reduce((prev, current) => {
+const parseMiscData = arr =>
+    arr.reduce((prev, current) => {
 
         const [
             cbcYear, date,
@@ -127,9 +93,8 @@ function parseMiscData(arr) {
 
         return prev;
     }, {});
-}
 
-function parseCountYears(arr) {
+const parseCountYears = arr => {
 
     const weather = arr.slice(4, findWeather(arr) - 1);
     const misc = arr.slice(findWeather(arr) + 1, findOrg(arr) - 1);
@@ -142,11 +107,10 @@ function parseCountYears(arr) {
     });
 
     return miscData;
-}
+};
 
-function parseSpecies(arr) {
-
-    return arr.reduce((prev, current) => {
+const parseSpecies = arr =>
+    arr.reduce((prev, current) => {
 
         // not yet sure why this is necessary
         if (!current[1])
@@ -165,29 +129,18 @@ function parseSpecies(arr) {
 
         return prev;
     }, {});
-}
 
-function parseLatitiude(str) {
+const parseLatitiude = str => str ? Number(str.split('/')[0]) : null;
+const parseLongitude = str => str ? Number(str.split('/')[1]) : null;
 
-    return str ? Number(str.split('/')[0]) : null;
-}
+const parseCircle = arr => ({
+    name: Maybe.of(arr[0]),
+    code: Maybe.of(arr[1]),
+    latitude: Maybe.of(parseLatitiude(arr[2])),
+    longitude: Maybe.of(parseLongitude(arr[2]))
+});
 
-function parseLongitude(str) {
-
-    return str ? Number(str.split('/')[1]) : null;
-}
-
-function parseCircle(arr) {
-
-    return {
-        name: Maybe.of(arr[0]),
-        code: Maybe.of(arr[1]),
-        latitude: Maybe.of(parseLatitiude(arr[2])),
-        longitude: Maybe.of(parseLongitude(arr[2]))
-    };
-}
-
-function processFile(str) {
+const processFile = str => {
 
     const csvFile = fs.readFileSync(str, 'utf-8');
     const rows = csvParse(csvFile);
@@ -201,6 +154,6 @@ function processFile(str) {
         species: parseSpecies(speciesRows),
         countYears: parseCountYears(countYearsRows)
     };
-}
+};
 
 export {processFile as default};

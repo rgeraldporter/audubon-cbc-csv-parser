@@ -1,9 +1,9 @@
 {
   "name": "audubon-cbc-csv-parser",
   "preferGlobal": false,
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "Robert Gerald Porter <rob@inpictures.ca>",
-  "description": "Parser for Audubon CBC CSV Files",
+  "description": "A parser for the Audubon Christmas Bird Count CSV files.",
   "main": "./app/index.js",
   "contributors": [
     "Robert Gerald Porter <rob@inpictures.ca>"

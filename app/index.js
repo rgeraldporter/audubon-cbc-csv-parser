@@ -77,63 +77,48 @@ function csvParse(csv, reviver) {
     return table;
 }
 
-function findSpecies(arr) {
-
+var findSpecies = function findSpecies(arr) {
     return arr.findIndex(function (arr) {
-
         return arr[0] === "COM_NAME";
     });
-}
-
-function findParticipants(arr) {
-
+};
+var findParticipants = function findParticipants(arr) {
     return arr.findIndex(function (arr) {
-
         return arr[1] === "FirstName";
     });
-}
-
-function parseTaxa(str) {
-
+};
+var parseTaxa = function parseTaxa(str) {
     return str.split('[')[0].slice(0, -2);
-}
-
-function findWeather(arr) {
-
+};
+var findWeather = function findWeather(arr) {
     return arr.findIndex(function (arr) {
-
         return arr[0] === "CountYear5";
     });
-}
-
-function findOrg(arr) {
-
+};
+var findOrg = function findOrg(arr) {
     return arr.findIndex(function (arr) {
-
         return arr[0] === "CountYear4";
     });
-}
+};
 
-function parseWeatherData(arr) {
-
+var parseWeatherData = function parseWeatherData(arr) {
     return arr.reduce(function (prev, current) {
         var _current$map = current.map(function (val) {
             return _Maybe2.default.of(val);
-        });
-
-        var _current$map2 = _slicedToArray(_current$map, 9);
-
-        var cbcYear = _current$map2[0];
-        var lowTemp = _current$map2[1];
-        var highTemp = _current$map2[2];
-        var amClouds = _current$map2[3];
-        var pmClouds = _current$map2[4];
-        var amRain = _current$map2[5];
-        var pmRain = _current$map2[6];
-        var amSnow = _current$map2[7];
-        var pmSnow = _current$map2[8];
+        }),
+            _current$map2 = _slicedToArray(_current$map, 9),
+            cbcYear = _current$map2[0],
+            lowTemp = _current$map2[1],
+            highTemp = _current$map2[2],
+            amClouds = _current$map2[3],
+            pmClouds = _current$map2[4],
+            amRain = _current$map2[5],
+            pmRain = _current$map2[6],
+            amSnow = _current$map2[7],
+            pmSnow = _current$map2[8];
 
         // +1899 to give calendar year, since 1900 was year 1
+
 
         prev[cbcYear.emit() + 1899] = {
             cbcYear: cbcYear, lowTemp: lowTemp, highTemp: highTemp,
@@ -143,31 +128,27 @@ function parseWeatherData(arr) {
 
         return prev;
     }, {});
-}
+};
 
-function parseMiscData(arr) {
-
+var parseMiscData = function parseMiscData(arr) {
     return arr.reduce(function (prev, current) {
         var _current$map3 = current.map(function (val) {
             return _Maybe2.default.of(val);
-        });
-
-        var _current$map4 = _slicedToArray(_current$map3, 5);
-
-        var cbcYear = _current$map4[0];
-        var date = _current$map4[1];
-        var participants = _current$map4[2];
-        var totalHours = _current$map4[3];
-        var speciesReported = _current$map4[4];
-
+        }),
+            _current$map4 = _slicedToArray(_current$map3, 5),
+            cbcYear = _current$map4[0],
+            date = _current$map4[1],
+            participants = _current$map4[2],
+            totalHours = _current$map4[3],
+            speciesReported = _current$map4[4];
 
         prev[cbcYear.emit() + 1899] = { date: date, participants: participants, totalHours: totalHours, speciesReported: speciesReported };
 
         return prev;
     }, {});
-}
+};
 
-function parseCountYears(arr) {
+var parseCountYears = function parseCountYears(arr) {
 
     var weather = arr.slice(4, findWeather(arr) - 1);
     var misc = arr.slice(findWeather(arr) + 1, findOrg(arr) - 1);
@@ -180,10 +161,9 @@ function parseCountYears(arr) {
     });
 
     return miscData;
-}
+};
 
-function parseSpecies(arr) {
-
+var parseSpecies = function parseSpecies(arr) {
     return arr.reduce(function (prev, current) {
 
         // not yet sure why this is necessary
@@ -201,29 +181,25 @@ function parseSpecies(arr) {
 
         return prev;
     }, {});
-}
+};
 
-function parseLatitiude(str) {
-
+var parseLatitiude = function parseLatitiude(str) {
     return str ? Number(str.split('/')[0]) : null;
-}
-
-function parseLongitude(str) {
-
+};
+var parseLongitude = function parseLongitude(str) {
     return str ? Number(str.split('/')[1]) : null;
-}
+};
 
-function parseCircle(arr) {
-
+var parseCircle = function parseCircle(arr) {
     return {
         name: _Maybe2.default.of(arr[0]),
         code: _Maybe2.default.of(arr[1]),
         latitude: _Maybe2.default.of(parseLatitiude(arr[2])),
         longitude: _Maybe2.default.of(parseLongitude(arr[2]))
     };
-}
+};
 
-function processFile(str) {
+var processFile = function processFile(str) {
 
     var csvFile = _fs2.default.readFileSync(str, 'utf-8');
     var rows = csvParse(csvFile);
@@ -237,6 +213,6 @@ function processFile(str) {
         species: parseSpecies(speciesRows),
         countYears: parseCountYears(countYearsRows)
     };
-}
+};
 
 exports.default = processFile;
